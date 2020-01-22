@@ -1,0 +1,132 @@
+---
+
+---
+
+*
+  transition: color .2s ease-in, background-color .2s ease-in
+body
+  --color: #0074d9
+  --background: #111111
+
+body
+  margin: 0
+  display: flex
+  flex-direction: column
+  align-items: center
+  width: 100vw
+  min-height: 100vh
+  font-family: sans-serif
+  color: var(--color)
+  background: var(--background)
+
+a, a:visited
+  color: unset
+
+#wrap
+  margin: auto
+  width: 800px
+  @media screen and (max-width: 800px)
+    max-width: 800px
+    width: 100%
+
+header
+  h1
+    display: block
+    text-align: center
+    margin: 0
+
+#info
+  margin: 0 auto
+  padding: 2ch
+  max-width: 440px
+
+nav
+  display: flex
+  justify-content: center
+  flex-wrap: wrap
+  font-size: 15pt
+  a
+    margin: 0 1ch
+
+.playsound
+  text-decoration: underline
+  cursor: pointer
+  sup
+    font-size: .5em
+
+footer
+  text-align: center
+  margin-top: 2em
+
+.item
+  text-decoration: none
+  img
+    max-width: 100%
+  .card
+    background: var(--background)
+  .front
+    background-size: contain
+  .back
+    background: var(--background)
+    .name
+      text-align: center
+      margin: 2px 0
+    .date
+      padding: 0 5px
+      text-align: center
+      margin-bottom: 1em
+    .description
+      margin: 1ch
+
+// 3D card setup
+$grid-rows-3: round({{ site.data.grid.size }} / 3)
+$grid-rows-2: round({{ site.data.grid.size }} / 2)
+$grid-rows-1: {{ site.data.grid.size }}
+#grid
+  display: grid
+  margin: 0 auto
+  gap: 10px
+  justify-content: center
+  {% if site.data.grid.size == 0 %}
+  display: none
+  {% elsif site.data.grid.size == 1 %}
+  grid-template: 250px / 250px
+  {% elsif site.data.grid.size == 2 %}
+  grid-template: repeat($grid-rows-2, 250px) / repeat(2, 250px)
+  {% elsif site.data.grid.size == 3 %}
+  grid-template: repeat($grid-rows-3, 250px) / repeat(3, 250px)
+  {% endif %}
+  {% if site.data.grid.size <= 2 %}
+  @media screen and (max-width: 560px)
+    grid-template: repeat($grid-rows-2, 180px) / repeat(2, 180px)
+    font-size: .8em
+  @media screen and (max-width: 410px)
+    grid-template: repeat($grid-rows-1, 250px) / repeat(1, 250px)
+  {% elsif site.data.grid.size <= 3 %}
+  @media screen and (max-width: 820px)
+    grid-template: repeat($grid-rows-2, 250px) / repeat(2, 250px)
+  {% endif %}
+
+.item
+  perspective: 1000px
+.item:hover .card
+  &.even
+    transform: rotateY(180deg)
+  &.odd
+    transform: rotateX(180deg)
+.card
+  &.even .back
+    transform: rotateY(180deg)
+  &.odd .back
+    transform: rotateX(180deg)
+.card
+  width: 100%
+  height: 100%
+  position: relative
+  transition: transform .4s
+  transform-style: preserve-3d
+.front, .back
+  position: absolute
+  height: 100%
+  width: 100%
+  backface-visibility: hidden

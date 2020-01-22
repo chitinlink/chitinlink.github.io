@@ -1,0 +1,15 @@
+- name: Email
+  icon: fas w-at
+  href: mailto:interimgoliath@gmail.com
+- name: Twitter
+  icon: fab w-twitter
+  href: https://twitter.com/technoabyss
+- name: Github
+  icon: fab w-github
+  href: https://github.com/technoabyss
+- name: YouTube
+  icon: fab w-youtube
+  href: https://www.youtube.com/channel/UCV7Wu5eImEcRhJKZzFa3RLQ
+- name: Tumblr
+  icon: fab w-tumblr
+  href: https://technoabyss.tumblr.com/
