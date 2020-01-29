@@ -1,0 +1,15 @@
+<div id="grid">
+  {% for item in site.data.grid %}
+  <a class="item" href="{{ item.link }}" id="i-{{ item.name | split: ' ' | join: '-' | downcase }}">
+    {% assign a = forloop.index0 | modulo: 2 %}
+    <div class="card {% if a == 0 %}even{% else %}odd{% endif %}">
+      <div class="front" style="background-image: url('/assets/img/{{ item.image }}')"></div>
+      <div class="back">
+        <h2 class="name">{{ item.name }}</h2>
+        <div class="date">{{ item.date }}</div>
+        <p class="description">{{ item.description }}</p>
+      </div>
+    </div>
+  </a>
+  {% endfor %}
+</div>

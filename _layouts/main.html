@@ -1,44 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ site.title }}</title>
-    <link rel="stylesheet" href="/assets/fa-free-5.12.0.min.css">
-    <link rel="stylesheet" href="/assets/style.css">
-    <link rel="icon" type="image/png" href="/assets/favicon/48.png" sizes="48x48">
-    <link rel="icon" type="image/png" href="/assets/favicon/32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="/assets/favicon/16.png" sizes="16x16">
-  </head>
+  {% include head.html %}
   <body>
     <div id="wrap">
-      <header>
-        <h1>technoabyss</h1>
-      </header>
-      <div id="info">
-        {{ content }}
-        <nav>
-          {% for link in site.data.links %}
-          <a href="{{ link.href }}"><i class="{{ link.icon }}"></i></a>
-          {% endfor %}
-        </nav>
-      </div>
-      <div id="grid">
-        {% for item in site.data.grid %}
-        <a class="item" href="{{ item.link }}" id="i-{{ item.name | split: ' ' | join: '-' | downcase }}">
-          {% assign a = forloop.index0 | modulo: 2 %}
-          <div class="card {% if a == 0 %}even{% else %}odd{% endif %}">
-            <div class="front" style="background-image: url('/assets/img/{{ item.image }}')"></div>
-            <div class="back">
-              <h2 class="name">{{ item.name }}</h2>
-              <div class="date">{{ item.date }}</div>
-              <p class="description">{{ item.description }}</p>
-            </div>
-          </div>
-        </a>
-        {% endfor %}
-      </div>
-      <footer>Last updated {{ site.time | date: '%B %Y' }}</footer>
+      {% include header.html %}
+      {% include info.html %}
+      {% include grid.html %}
+      {% include footer.html %}
     </div>
     <script src="/assets/script.js"></script>
   </body>

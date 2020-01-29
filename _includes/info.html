@@ -1,0 +1,8 @@
+<div id="info">
+  {{ content }}
+  <nav>
+    {% for link in site.data.links %}
+    <a href="{{ link.href }}"><i class="{{ link.icon }}"></i></a>
+    {% endfor %}
+  </nav>
+</div>
