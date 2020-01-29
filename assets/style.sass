@@ -67,16 +67,31 @@ footer
   .front
     background-size: contain
   .back
+    display: flex
+    flex-direction: column
     background: var(--background)
+    justify-content: space-between
     .name
       text-align: center
       margin: 2px 0
     .date
       padding: 0 5px
       text-align: center
-      margin-bottom: 1em
     .description
       margin: 1ch
+    .biglink
+      text-align: center
+      // margin-top: auto
+      margin-bottom: 1em
+      a
+        display: inline-block
+        background: var(--color)
+        color: var(--background)
+        font-size: 1.5em
+        padding: .5ch 1ch
+    .name, .date, .biglink
+      a
+        text-decoration: none
 
 // 3D card setup
 $grid-rows-3: round({{ site.data.grid.size }} / 3)
