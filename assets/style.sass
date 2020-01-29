@@ -125,11 +125,12 @@ $grid-rows-1: {{ site.data.grid.size }}
 
 .item
   perspective: 1000px
-.item:hover .card
-  &.even
-    transform: rotateY(180deg)
-  &.odd
-    transform: rotateX(180deg)
+.item:hover, .item:focus
+  .card
+    &.even
+      transform: rotateY(180deg)
+    &.odd
+      transform: rotateX(180deg)
 .card
   &.even .back
     transform: rotateY(180deg)
