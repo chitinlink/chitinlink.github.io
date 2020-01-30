@@ -2,9 +2,10 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.0.0"
 
-group :jekyll_plugins do
-  # gem "jekyll-feed", "~> 0.12"
-end
+# Hate this.
+# group :jekyll_plugins do
+#   gem "github-pages"
+# end
 
 # windows
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
