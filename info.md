@@ -7,14 +7,16 @@ layout: side
 I'm more active on Discord than anywhere else. If you want my tag, ask me in private. Same thing for my Steam account.  
 I spend a lot of my free time in calls, doing whatever in the background.
 
+I'm not especially well-read on politics but I agree with most communist and anti-imperialist rhetoric.  
+I believe everyone has a right to be treated fairly -- to be fed and clothed, to stable housing and infrastructure, and allowed to flourish without undue stress.
+
 I'm [available for web design work](https://twitter.com/technoabyss/status/1222519819146334208) if you're interested in that.
 
 I haven't read that many traditional books lately, save for the Dune series. I'm in the middle of God Emperor right now.
 
 I like SCP quite a bit. My favorite entry is [taboo](http://www.scp-wiki.net/taboo).
 
-{% capture Webcomics %}
-
+<details markdown="1"><summary>Webcomics</summary>
 I'm keeping up with a number of webcomics atm:
 
 - [Gunnerkrigg Court](https://www.gunnerkrigg.com/?p=1)
@@ -36,10 +38,9 @@ I also read these at some point:
 - [Harpy Gee](https://harpygee.com/comic/cover) (Dropped midway)
 
 I'm a huge fan of format-breaking and hypertext stuff - the flashes in Homestuck, nonlinear storytelling (eg. SCP)
-{% endcapture %}
-{% include details.html title="Webcomics" content=Webcomics %}
+</details>
 
-{% capture Videogames %}
+<details markdown="1"><summary>Videogames</summary>
 I will usually change the game I'm focusing on every few weeks.
 
 Here's some I usually come back to:
@@ -61,8 +62,7 @@ Here's some I really like:
 - Portal 2
 
 I have a full list of games I've played at my [Backloggery](https://backloggery.com/games.php?user=technoabyss)[^1].
-{% endcapture %}
-{% include details.html title="Videogames" content=Videogames %}
+</details>
 
 Here's some other shit:
 
