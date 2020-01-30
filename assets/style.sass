@@ -18,6 +18,7 @@ body
   font-family: sans-serif
   color: var(--color)
   background: var(--background)
+  overflow-x: hidden
 
 a, a:visited
   color: unset
@@ -36,11 +37,49 @@ header
     margin: 0
 
 #info
-  margin: 0 auto
+  margin: 1em auto
   padding: 0 2ch
   max-width: 440px
+  h2
+    text-align: center
+  details
+    border: 1px solid var(--color)
+    border-right-style: dashed
+    border-left-style: dashed
+    padding: .5em .5em 0
+    margin: 1em 0
+    transition: opacity 1s
+    summary
+      cursor: pointer
+      font-weight: bold
+      margin: -.5em -.5em 0
+      padding: .5em
+    &[open] summary
+      margin: -.5em -.5em
+  ul, ol
+    list-style-position: inside
+    padding: 0
+  li >
+    ul, ol
+      padding-left: 2ch
+    p
+      display: inline
+
+.footnotes
+  font-size: 0.7em
+
+.return
+  text-align: center
+  a
+    display: inline-block
+    background: var(--color)
+    color: var(--background)
+    text-decoration: none
+    padding: .5ch 1ch
+    font-size: 1.2em
 
 nav
+  &.external, &.site
   display: flex
   justify-content: center
   flex-wrap: wrap
@@ -48,6 +87,13 @@ nav
   margin: 1em 0
   a
     margin: 0 1ch
+  &.site
+    a
+      text-decoration: none
+      background: var(--color)
+      color: var(--background)
+      padding: .5ch 1ch
+
 
 .playsound
   text-decoration: underline
@@ -57,7 +103,7 @@ nav
 
 footer
   text-align: center
-  margin-top: 2em
+  margin: 2em 0 1em 0
   font-size: 0.7em
 
 .item
