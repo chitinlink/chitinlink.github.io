@@ -14,6 +14,7 @@ I haven't read that many traditional books lately, save for the Dune series. I'm
 I like SCP quite a bit. My favorite entry is [taboo](http://www.scp-wiki.net/taboo).
 
 <details markdown=1><summary>Webcomics</summary>
+
 I'm keeping up with a number of webcomics atm:
 
 - [Gunnerkrigg Court](https://www.gunnerkrigg.com/?p=1)
@@ -35,9 +36,11 @@ I also read these at some point:
 - [Harpy Gee](https://harpygee.com/comic/cover) (Dropped midway)
 
 I'm a huge fan of format-breaking and hypertext stuff - the flashes in Homestuck, nonlinear storytelling (eg. SCP)
+
 </details>
 
 <details markdown=1><summary>Videogames</summary>
+
 I will usually change the game I'm focusing on every few weeks.
 
 Here's some I usually come back to:
@@ -59,6 +62,7 @@ Here's some I really like:
 - Portal 2
 
 I have a full list of games I've played at my [Backloggery](https://backloggery.com/games.php?user=technoabyss)[^1].
+
 </details>
 
 Here's some other shit:
