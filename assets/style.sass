@@ -3,7 +3,7 @@
 ---
 
 *
-  transition: color .2s ease-in, background-color .2s ease-in
+  transition: color .2s ease-in, background-color .2s ease-in, transform .4s
 body
   --color: #0074d9
   --background: #111111
@@ -37,7 +37,7 @@ header
 
 #info
   margin: 0 auto
-  padding: 2ch
+  padding: 0 2ch
   max-width: 440px
 
 nav
@@ -45,6 +45,7 @@ nav
   justify-content: center
   flex-wrap: wrap
   font-size: 15pt
+  margin: 1em 0
   a
     margin: 0 1ch
 
@@ -140,7 +141,6 @@ $grid-rows-1: {{ site.data.grid.size }}
   width: 100%
   height: 100%
   position: relative
-  transition: transform .4s
   transform-style: preserve-3d
 .front, .back
   position: absolute
