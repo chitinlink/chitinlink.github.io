@@ -7,15 +7,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Build & Deploy to GitHub Pages
+      - uses: actions/setup-ruby@v1
+      - name: Install Bundler
+        run: gem install bundler
+      - name: Build
+        run: |
+          bundle install
+          bundle exec jekyll build
+      - name: Deploy
         env:
           GITHUB_TOKEN:      ${{ secrets.TOKEN }}
           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
           GITHUB_ACTOR:      ${{ secrets.GITHUB_ACTOR }}
         run: |
           set -e
-          bundle install
-          bundle exec jekyll build
           cd _site
           remote_repo="https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" && \
           remote_branch="gh-pages" && \
@@ -25,6 +30,4 @@ jobs:
           git add . && \
           echo -n 'Files to Commit:' && ls -l | wc -l && \
           git commit -m 'action build' > /dev/null 2>&1 && \
-          git push --force $remote_repo master:$remote_branch > /dev/null 2>&1 && \
-          rm -fr .git && \
-          cd ../
+          git push --force $remote_repo master:$remote_branch > /dev/null 2>&1
