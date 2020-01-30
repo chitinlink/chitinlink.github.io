@@ -1,16 +1,20 @@
 <div id="grid">
+  {% assign local = "/" | absolute_url %}
   {% for item in site.data.grid %}
+  {% assign out = item.link | absolute_url %}
+  {% unless out contains local %}{% assign ext = 'rel="external" referrerpolicy="no-referrer"' %}{% endunless %}
+  {% assign a = forloop.index0 | modulo: 2 %}
+  {% capture parity %}{% if a == 0 %}even{% else %}odd{% endif %}{% endcapture %}
   <div class="item" id="i-{{ item.name | split: ' ' | join: '-' | downcase }}">
-    {% assign a = forloop.index0 | modulo: 2 %}
-    <div class="card {% if a == 0 %}even{% else %}odd{% endif %}">
+    <div class="card {{ parity }}">
       <div class="front" style="background-image: url('/assets/img/{{ item.image }}')"></div>
       <div class="back">
         <div class="name-and-date">
-          <h2 class="name"><a href="{{ item.link }}">{{ item.name }}</a></h2>
-          <div class="date"><a href="{{ item.link }}">{{ item.date }}</a></div>
+          <h2 class="name"><a href="{{ item.link }}" {{ ext }}>{{ item.name }}</a></h2>
+          <div class="date"><a href="{{ item.link }}" {{ ext }}>{{ item.date }}</a></div>
         </div>
         <p class="description">{{ item.description }}</p>
-        <div class="biglink"><a href="{{ item.link }}">Link</a></div>
+        <div class="biglink"><a href="{{ item.link }}" {{ ext }}>Link</a></div>
       </div>
     </div>
   </div>
