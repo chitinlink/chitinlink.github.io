@@ -16,15 +16,7 @@ document.querySelectorAll("a.playsound")
   });
 
 // Colors selected from clrs.cc/a11y by Adam Morse
-const colors = {{ site.data.colors | jsonify  }};
-let _c = ["0074d9","111111"];
-setInterval(
-  () => {
-    let c;
-    while (true) {
-      c = colors[Math.floor(Math.random() * (colors.length))];
-      if (c !== _c) break;
-    }
-    document.body.style = `--color: #${c[0]}; --background: #${c[1]};`;
-  }, 5*1000
-);
+const colors = {{ site.data.colors | jsonify }};
+c = colors[Math.floor(Math.random() * (colors.length))];
+document.body.style.setProperty("--color",      `#${c[0]}`);
+document.body.style.setProperty("--background", `#${c[1]}`);

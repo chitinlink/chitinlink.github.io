@@ -3,12 +3,14 @@
 ---
 
 *
-  transition: color .2s ease-in, background-color .2s ease-in, transform .4s
+  // transition: color .2s ease-in, background-color .2s ease-in
+  transition: transform .4s
 body
   --color: #0074d9
   --background: #111111
 
 body
+  transform: translateX(0px)
   margin: 0
   display: flex
   flex-direction: column
@@ -189,55 +191,3 @@ $grid-rows-1: {{ site.data.grid.size }}
   height: 100%
   width: 100%
   backface-visibility: hidden
-
-// bigger cube shit
-// .cube_container
-//   perspective: 300px
-//   --side: 20px
-//   width: var(--side)
-//   height: var(--side)
-
-// .cube
-//   width: 100%
-//   height: 100%
-//   position: relative
-//   transform-style: preserve-3d
-//   // transform: translateZ(calc(-(var(--side)/2)))
-
-// .cube_face
-//   position: absolute
-//   width: var(--side)
-//   height: var(--side)
-//   // backface-visibility: hidden
-
-// .cube_face.face-front
-//   transform: rotateY(  0deg) translateZ(calc(var(--side) / 2))
-//   background: red
-// .cube_face.face-right
-//   transform: rotateY( 90deg) translateZ(calc(var(--side) / 2))
-//   background: blue
-// .cube_face.face-back
-//   transform: rotateY(180deg) translateZ(calc(var(--side) / 2))
-//   background: red
-// .cube_face.face-left
-//   transform: rotateY(-90deg) translateZ(calc(var(--side) / 2))
-//   background: blue
-// .cube_face.face-top
-//   transform: rotateX( 90deg) translateZ(calc(var(--side) / 2))
-//   background: green
-// .cube_face.face-bottom
-//   transform: rotateX(-90deg) translateZ(calc(var(--side) / 2))
-//   background: green
-
-// .cube.show-front
-//   transform: rotateY(   0deg)
-// .cube.show-right
-//   transform: rotateY( -90deg)
-// .cube.show-back
-//   transform: rotateY(-180deg)
-// .cube.show-left
-//   transform: rotateY(  90deg)
-// .cube.show-top
-//   transform: rotateX( -90deg)
-// .cube.show-bottom
-//   transform: rotateX(  90deg)
