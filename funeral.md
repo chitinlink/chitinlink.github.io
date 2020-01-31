@@ -1,4 +1,4 @@
 ---
 layout: redirect
-href: /about
+href: /funeralcity
 ---
