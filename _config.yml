@@ -4,3 +4,14 @@ baseurl: ""
 
 safe: true
 markdown: kramdown
+
+collections:
+  posts:
+    output: true
+    permalink: /blog/:slug
+
+defaults:
+  - scope:
+      path: _posts
+    values:
+      layout: post

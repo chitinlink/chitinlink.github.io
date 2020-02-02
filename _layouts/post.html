@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <div id="wrap">
+      <div id="info" class="blog">
+        {% include back.html href="/blog" %}
+
+        <h2>{{ page.title }} <time datetime="{{ page.date | date_to_xml }}">{{ page.date | date_to_long_string }}</time></h2>
+        {{ content }}
+        {% include back.html href="/blog" %}
+      </div>
+    </div>
+    <script src="/assets/script.js"></script>
+  </body>
+</html>

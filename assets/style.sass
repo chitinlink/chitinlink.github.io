@@ -42,6 +42,8 @@ header
   margin: 1em auto
   padding: 0 2ch
   max-width: 500px
+  &.blog
+    max-width: 800px
   h2
     text-align: center
   details
@@ -66,6 +68,33 @@ header
       padding-left: 2ch
     p
       display: inline
+  img
+    display: block
+    max-width: 100%
+    margin: 0 auto
+  code
+    font-family: Consolas, monospace
+    &.highlighter-rouge
+      border: solid 1px var(--color)
+      padding: 0 2px
+      margin: 0 2px
+  hr
+    color: var(--color)
+    border-style: solid
+  &.blog h2 time
+    font-size: .5em
+    display: block
+  a:not([href^="/"]):not([href^="#"]):not([href^="{{ site.url }}"])
+    &:after
+      font-family: "Font Awesome 5 Free"
+      content: " \f35d"
+      font-weight: bold
+      font-size: .6em
+      vertical-align: super
+
+#blog_index
+  font-family: Consolas, monospace
+  list-style-type: none
 
 .footnotes
   font-size: 0.7em
