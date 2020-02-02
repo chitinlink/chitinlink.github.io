@@ -61,12 +61,12 @@ Here's some I really like:
 - Cavestory
 - Portal 2
 
-I have a full list of games I've played at my [Backloggery](https://backloggery.com/games.php?user=technoabyss)[^1].
+I have a full list of games I've played at my [Backloggery](https://backloggery.com/games.php?user=technoabyss) [^1].
 </details>
 
 Here's some other shit:
 
-- [MyAnimeList](https://myanimelist.net/animelist/technoabyss)[^2]
+- [MyAnimeList](https://myanimelist.net/animelist/technoabyss) [^2]
 
 [^1]: I don't necessarily like all of these
 [^2]: Please dont judge me for these I watched a lot of trash when i was 14

@@ -86,11 +86,15 @@ header
     display: block
   a:not([href^="/"]):not([href^="#"]):not([href^="{{ site.url }}"])
     &:after
+      vertical-align: super
       font-family: "Font Awesome 5 Free"
-      content: " \f35d"
       font-weight: bold
       font-size: .6em
-      vertical-align: super
+      content: " \f35d"
+    &[href^="https://twitter.com/"]:after
+      font-family: "Font Awesome 5 Brands"
+      font-weight: normal
+      content: " \f099"
 
 #blog_index
   font-family: Consolas, monospace
