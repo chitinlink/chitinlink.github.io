@@ -29,6 +29,8 @@ Ask if you want to break rule 3 for something. My answer will probably be to do 
 
 <details markdown="1"><summary>Technical details</summary>
 
+Map was originally generated in 1.14.
+
 The server is technically not vanilla, but the mods we have are for performance and enhancing the vanilla game:
 
   * [Carpet mod](https://github.com/gnembon/fabric-carpet) and [carpet-extra](https://github.com/gnembon/carpet-extra/)
