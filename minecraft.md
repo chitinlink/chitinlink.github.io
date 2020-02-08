@@ -17,23 +17,23 @@ There is no specific purpose to the server, you can just do whatever as long as 
   * Dirt pillars/bridges
   * Floating trees
 3. Don't lag out the server. Examples:
-  * Animal pens with more than 10 animals
+  * Animal pens with too many animals
   * Stray minecarts
   * Always-on redstone machines
 
 Ask if you want to break rule 3 for something. My answer will probably be to do it somewhere far away.
 
-* [Seed](https://chunkbase.com/apps/biome-finder#-1801724948) (`-1801724948`)
-
 ---
 
 <details markdown="1"><summary>Technical details</summary>
 
-Map was originally generated in 1.14.
+Map was originally generated in `1.14`. We then played on `1.14.1`, `1.14.2`, `1.15`, and now in `1.15.2`.
+
+[Seed](https://chunkbase.com/apps/biome-finder#-1801724948): `-1801724948`
 
 The server is technically not vanilla, but the mods we have are for performance and enhancing the vanilla game:
 
-  * [Carpet mod](https://github.com/gnembon/fabric-carpet) and [carpet-extra](https://github.com/gnembon/carpet-extra/)
+* [Carpet mod](https://github.com/gnembon/fabric-carpet) and [carpet-extra](https://github.com/gnembon/carpet-extra/)
 
 I plan to keep updating the server as new **stable** versions come out, and the world will always be the same. (**We WILL reset the Nether for 1.16 though so be warned**)
 
@@ -43,8 +43,6 @@ Backups are done every day at [4AM UTC](https://time.is/just/UTC). The server li
 
 Gamerules (that are changed from defaults):
 
-| Gamerule                     | Value
-| :-                           | :-
 | `disableElytraMovementCheck` |  `true`
 | `keepInventory`              |  `true`
 | `doInsomnia`                 |  `false`

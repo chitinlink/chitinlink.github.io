@@ -42,6 +42,7 @@ header
   margin: 1em auto
   padding: 0 2ch
   max-width: 500px
+  line-height: 1.3em
   &.blog
     max-width: 800px
   h2
@@ -83,6 +84,7 @@ header
     margin: 1em auto
     --bb: 1px solid var(--color)
     border: var(--bb)
+    border-style: hidden
     td, th
       border: var(--bb)
       padding: 2px 4px
@@ -92,8 +94,18 @@ header
         margin: 0
     th
       font-weight: normal
+      border-color: var(--background)
+    thead
+      background: var(--color)
+      color: var(--background)
   dt
     margin: .25em 0
+    > code:only-child
+      border: 0
+      padding: 0
+      margin: 0
+  dd
+    margin-left: 2ch
   hr
     color: var(--color)
     border-style: solid
