@@ -23,7 +23,6 @@ There is no specific purpose to the server, you can just do whatever as long as 
 
 Ask if you want to break rule 3 for something. My answer will probably be to do it somewhere far away.
 
-* [Server map](https://mc.galaxybra.in/map/)
 * [Seed](https://chunkbase.com/apps/biome-finder#-1801724948) (`-1801724948`)
 
 ---
