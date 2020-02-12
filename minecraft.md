@@ -121,7 +121,9 @@ I use these and recommend them.
 <details markdown="1"><summary>Resource Packs</summary>
 
 * [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs)
-* [Rainbow Diamond/Emerald Ores](https://cdn.discordapp.com/attachments/542044271063072769/605019717857443860/Rainbow_DiaEme.zip) (Highlights Diamond + Emerald ores)
-* [Hidden Diamond Armor](https://cdn.discordapp.com/attachments/542044271063072769/605019718033866793/HiddenDiamArmor.zip) (so you can see skins)
+* [Rainbow Diamond/Emerald Ores](https://cdn.discordapp.com/attachments/542044271063072769/676971998433247240/Rainbow_DiaEme.zip) (Highlights Diamond + Emerald ores)
+* [Hidden Diamond Armor](https://cdn.discordapp.com/attachments/542044271063072769/676972030561878036/HiddenDiamArmor.zip) (so you can see skins)
+* [Infested Block Hint](https://cdn.discordapp.com/attachments/542044271063072769/676972015369977937/InfestedBlocks.zip) (shows you silverfish-infested blocks)
+* [Scaffolding Hint](https://cdn.discordapp.com/attachments/542044271063072769/676971999859441675/Scaffolding.zip) (shows you scaffolding distance as color)
 
 </details>
