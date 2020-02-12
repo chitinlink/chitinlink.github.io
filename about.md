@@ -4,6 +4,8 @@ layout: side
 
 ## about me
 
+My timezone is somewhere around [UTC](https://time.is/just/UTC).
+
 I'm more active on Discord than anywhere else. If you want my tag, ask me in private. Same thing for my Steam account.  
 I spend a lot of my free time in calls, doing whatever in the background.
 
