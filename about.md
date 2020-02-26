@@ -43,6 +43,8 @@ I'm a huge fan of format-breaking and hypertext stuff - the flashes in Homestuck
 </details>
 
 <details markdown="1"><summary>Videogames</summary>
+I track the games I'm playing at[Backloggery](https://backloggery.com/games.php?user=technoabyss) [^1].
+
 I don't do it on purpose, but I end up changing the game I'm focusing on every few weeks.
 
 Here's some I usually come back to:
@@ -62,13 +64,9 @@ Here's some I really like:
 - Lethal League / Blaze
 - Cavestory
 - Portal 2
-
-I have a full list of games I've played at my [Backloggery](https://backloggery.com/games.php?user=technoabyss) [^1].
 </details>
 
-Here's some other shit:
+I also have a list of anime I've watched at [MyAnimeList](https://myanimelist.net/animelist/technoabyss) [^2].
 
-- [MyAnimeList](https://myanimelist.net/animelist/technoabyss) [^2]
-
-[^1]: I don't necessarily like all of these
+[^1]: I don't necessarily like all of the games listed here
 [^2]: Please dont judge me for these I watched a lot of trash when i was 14
