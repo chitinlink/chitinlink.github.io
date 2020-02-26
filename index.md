@@ -2,6 +2,6 @@
 layout: main
 ---
 
-Hi, I'm Ada (<a class="playsound" href="/assets/ada.mp3">ay-duh /ˈeɪdə/</a>).
+Hi, I'm Ada (ay-duh /ˈeɪdə/).
 
-I'm agender (she/her), 20, and English isn't my first language.
+I'm agender (she), 20, and English isn't my first language.

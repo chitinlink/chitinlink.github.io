@@ -30,12 +30,12 @@ I'm keeping up with a number of webcomics atm:
 I also read these at some point:
 
 - [Homestuck](https://www.homestuck.com/) (Finished)
-- [Sandra and Woo](http://www.sandraandwoo.com/2000/01/01/welcome-to-sandra-and-woo/) (Dropped midway)
 - Walkyverse<sup>([what is this?](https://walkypedia.fandom.com/wiki/Walkyverse))</sup> (Finished all of these) 
   - Roomies!
   - It's Walky!
   - Joyce and Walky!
   - Shortpacked!
+- [Sandra and Woo](http://www.sandraandwoo.com/2000/01/01/welcome-to-sandra-and-woo/) (Dropped midway)
 - [Order of the Stick](http://www.giantitp.com/comics/oots0001.html) (Dropped midway)
 - [Harpy Gee](https://harpygee.com/comic/cover) (Dropped midway)
 

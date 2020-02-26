@@ -13,3 +13,6 @@
 - name: Tumblr
   icon: fab w-tumblr
   href: https://technoabyss.tumblr.com/
+- name: Curiouscat
+  icon: fas w-question
+  href: https://curiouscat.me/technoabyss
