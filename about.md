@@ -43,7 +43,7 @@ I'm a huge fan of format-breaking and hypertext stuff - the flashes in Homestuck
 </details>
 
 <details markdown="1"><summary>Videogames</summary>
-I track the games I'm playing at[Backloggery](https://backloggery.com/games.php?user=technoabyss) [^1].
+I track the games I'm playing at [Backloggery](https://backloggery.com/games.php?user=technoabyss) [^1].
 
 I don't do it on purpose, but I end up changing the game I'm focusing on every few weeks.
 
