@@ -4,12 +4,18 @@ layout: side
 
 ## Minecraft
 
+<div style="text-align: center"><a class="fat" href="{{ '/minecraft/map' | absolute_url }}">Server Map</a></div>
+
 ### Basic info
 
 You must be whitelisted to join, ask me about it.  
 You can use the regular Minecraft launcher if you want.
 
-There is no specific purpose to the server, you can just do whatever as long as you follow the rules:
+If you want something you made to have a tooltip on the server map, ask for it.
+
+There is no specific goal to the server, you can just do whatever as long as you follow the rules.
+
+<details markdown="1"><summary>Server rules</summary>
 
 1. No griefing in general
   * (Check the allowed exploits under Technical Details)
@@ -22,6 +28,15 @@ There is no specific purpose to the server, you can just do whatever as long as 
   * Always-on redstone machines
 
 Ask if you want to break rule 3 for something. My answer will probably be to do it somewhere far away.
+
+</details>
+
+#### ⚠️ 1.16 Nether reset ⚠️
+
+We will be resetting the Nether for 1.16.
+
+* I will re-establish all portal connections in Creative when we do this.
+* If you have something in the Nether you REALLY want to keep, tell me before 1.16 comes out.
 
 ---
 
@@ -37,7 +52,7 @@ The server is technically not vanilla, but the mods we have are for performance 
 
 I plan to keep updating the server as new **stable** versions come out, and the world will always be the same. (**We WILL reset the Nether for 1.16 though so be warned**)
 
-Backups are done every day at [4AM UTC](https://time.is/just/UTC). The server lives in New York, USA.
+Backups are done every day at [5AM UTC](https://time.is/just/UTC). The server lives somewhere in the Madeira archipelago.
 
 <details markdown="1"><summary>Gamerules</summary>
 
@@ -100,9 +115,9 @@ RNG manipulation
 
 </details>
 
-### Mods and whatnot
+### Mods, etc.
 
-I use these and recommend them.
+The server requires **no** mods. These are recommendations.
 
 * [MultiMC Launcher](https://multimc.org/)
 
