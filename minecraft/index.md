@@ -9,7 +9,8 @@ layout: side
 ### Basic info
 
 You must be whitelisted to join, ask me about it.  
-You can use the regular Minecraft launcher if you want.
+You can use the regular Minecraft launcher if you want.  
+We are playing **1.15.2** vanilla Minecraft.
 
 If you want something you made to have a tooltip on the server map, ask for it.
 
