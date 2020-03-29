@@ -4,7 +4,7 @@ layout: side
 
 ## about me
 
-My timezone is somewhere around [UTC](https://time.is/just/UTC).
+My timezone is more or less [UTC](https://time.is/just/UTC).
 
 I'm more active on Discord than anywhere else. If you want my tag, ask me in private. Same thing for my Steam account.  
 I spend a lot of my free time in calls, doing whatever in the background.
@@ -13,8 +13,6 @@ I'm not well-read on politics but I agree with most communist and anti-imperiali
 I believe everyone has a right to be treated fairly -- to be fed and clothed, to stable housing and infrastructure, and allowed to flourish without undue stress.
 
 I'm [available for web design work](https://twitter.com/technoabyss/status/1222519819146334208) if you're interested in that.
-
-I haven't read that many traditional books lately, save for the Dune series. I'm in the middle of God Emperor right now.
 
 I like SCP quite a bit. My favorite entry is [taboo](http://www.scp-wiki.net/taboo).
 
@@ -25,11 +23,12 @@ I'm keeping up with a number of webcomics atm:
 - [Dumbing of Age](http://www.dumbingofage.com/2010/comic/book-1/01-move-in-day/home/)
 - [Prequel](https://www.prequeladventure.com/2011/03/prequel-begin/)
 - [Kill Six Billion Demons](https://killsixbilliondemons.com/comic/kill-six-billion-demons-chapter-1/)
-- [Gather Ye Power](https://www.webtoons.com/en/challenge/gather-ye-power/list?title_no=327553&page=1)
+<!-- - [Gather Ye Power](https://www.webtoons.com/en/challenge/gather-ye-power/list?title_no=327553&page=1) commented out until I actually catch up lol -->
+- [SAKANA](https://www.sakana-comic.com/comic/title-page-vol-1)
 
 I also read these at some point:
 
-- [Homestuck](https://www.homestuck.com/) (Finished)
+- [Homestuck](https://www.homestuck.com/) (Finished, I'll read HS^2 eventually)
 - Walkyverse<sup>([what is this?](https://walkypedia.fandom.com/wiki/Walkyverse))</sup> (Finished all of these) 
   - Roomies!
   - It's Walky!
@@ -43,7 +42,7 @@ I'm a huge fan of format-breaking and hypertext stuff - the flashes in Homestuck
 </details>
 
 <details markdown="1"><summary>Videogames</summary>
-I track the games I'm playing at [Backloggery](https://backloggery.com/games.php?user=technoabyss) [^1].
+I track the games I'm playing at [Backloggery](https://backloggery.com/technoabyss) [^1].
 
 I don't do it on purpose, but I end up changing the game I'm focusing on every few weeks.
 
@@ -66,7 +65,6 @@ Here's some I really like:
 - Portal 2
 </details>
 
-I also have a list of anime I've watched at [MyAnimeList](https://myanimelist.net/animelist/technoabyss) [^2].
+I also have a list of anime I've watched at [MyAnimeList](https://myanimelist.net/animelist/technoabyss).
 
-[^1]: I don't necessarily like all of the games listed here
-[^2]: Please dont judge me for these I watched a lot of trash when i was 14
+[^1]: I don't necessarily like all of the games listed as played
