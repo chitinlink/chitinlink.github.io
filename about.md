@@ -9,6 +9,8 @@ My timezone is more or less [UTC](https://time.is/just/UTC).
 I'm more active on Discord than anywhere else. If you want my tag, ask me in private. Same thing for my Steam account.  
 I spend a lot of my free time in calls, doing whatever in the background.
 
+I'm agender. Because the english language is gendered, and for the sake of unencumbering speech, I use "she" and "her" pronouns and prefer to be addressed with feminine forms. You're free to call me a "girl" and so on if you like. I'm also pansexual and polyamorous, if that matters to you.
+
 I'm not well-read on politics but I agree with most communist and anti-imperialist rhetoric.  
 I believe everyone has a right to be treated fairly -- to be fed and clothed, to stable housing and infrastructure, and allowed to flourish without undue stress.
 
@@ -42,7 +44,7 @@ I'm a huge fan of format-breaking and hypertext stuff - the flashes in Homestuck
 </details>
 
 <details markdown="1"><summary>Videogames</summary>
-I track the games I'm playing at [Backloggery](https://backloggery.com/technoabyss) [^1].
+I track the games I'm playing at [Backloggery](https://backloggery.com/technoabyss).
 
 I don't do it on purpose, but I end up changing the game I'm focusing on every few weeks.
 
@@ -65,6 +67,6 @@ Here's some I really like:
 - Portal 2
 </details>
 
-I also have a list of anime I've watched at [MyAnimeList](https://myanimelist.net/animelist/technoabyss).
-
-[^1]: I don't necessarily like all of the games listed as played
+I have a [MyAnimeList profile](https://myanimelist.net/profile/technoabyss).
+- [Anime list](https://myanimelist.net/animelist/technoabyss)
+- [Manga list](https://myanimelist.net/mangalist/technoabyss)
