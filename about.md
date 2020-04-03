@@ -67,6 +67,45 @@ Here's some I really like:
 - Portal 2
 </details>
 
-I have a [MyAnimeList profile](https://myanimelist.net/profile/technoabyss).
+<details markdown="1"><summary>Anime</summary>
+I watch anime occasionally, and I have a [MyAnimeList](https://myanimelist.net/profile/technoabyss).
+
 - [Anime list](https://myanimelist.net/animelist/technoabyss)
 - [Manga list](https://myanimelist.net/mangalist/technoabyss)
+</details>
+
+<details markdown="1"><summary>Cartoons</summary>
+I also watch cartoons / western animation sometimes. I've finished these:
+
+- Adventure Time
+- Steven Universe
+  - Steven Universe: The Movie
+  - Steven Universe Future
+- Star vs. the Forces of Evil
+- Wakfu: The Animated Series (Seasons 1 & 2)
+- She-Ra and the Princesses of Power (Seasons 1 & 2)
+- Over the Garden Wall
+
+I'm planning to watch:
+
+- Wakfu: The Animated Series (Season 3)
+- She-Ra and the Princesses of Power (Seasons 3, 4, 5)
+- My Little Pony: Friendship Is Magic (We'll see how much)
+- The Owl House
+- Gravity Falls <small>(I got close to but didn't finish it, so I want to rewatch it)</small>
+</details>
+
+<details markdown="1"><summary>Podcasts</summary>
+I listen to podcasts in my commute and when I'm doing chores or mindless tasks.
+
+Right now I'm mostly listening to [Friends at the Table](http://www.friendsatthetable.net/). I'm in Winter in Hieron.
+
+I also listen to [Abnormal Mapping](https://www.abnormalmapping.com/abnormal-mapping/) occasionally.
+
+I have finished listening to:
+
+- [The Adventure Zone: Balance](https://maximumfun.org/episodes/adventure-zone/ep-1-here-there-be-gerblins-chapter-one/)
+- [FATT: Autumn in Hieron](http://www.friendsatthetable.net/2014/09)
+- [FATT: COUNTER/Weight](http://friendsatthetable.net/category/COUNTERWeight)
+- [FATT: Marielda](http://friendsatthetable.net/category/Marielda)
+</details>
