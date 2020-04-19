@@ -108,4 +108,9 @@ I have finished listening to:
 - [FATT: Autumn in Hieron](http://www.friendsatthetable.net/2014/09)
 - [FATT: COUNTER/Weight](http://friendsatthetable.net/category/COUNTERWeight)
 - [FATT: Marielda](http://friendsatthetable.net/category/Marielda)
+
+I want to try listening to these, when I have the time:
+
+- [Wolf 359](https://www.wolf359.fm/)
+- [The Magnus Archives](http://rustyquill.com/the-magnus-archives/)
 </details>
