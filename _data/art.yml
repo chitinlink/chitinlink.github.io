@@ -1,0 +1,65 @@
+- file: grocnak.png
+  date: 2016-09-24
+  short: Pixel art
+  desc: >-
+    Horned hardskull.
+- file: sin.png
+  date: 2016-09-24
+  short: Pixel art
+  desc: >-
+    Cute icon (of sin)
+- file: rudie.png
+  date: 2016-09-24
+  short: Pixel art
+  desc: >-
+    Kind of a deer face.
+- file: jeremy.png
+  date: 2016-09-24
+  short: Pixel art
+  desc: >-
+    Wink!
+- file: elle.png
+  date: 2016-09-25
+  short: Pixel art
+  desc: >-
+    Breathing deep.
+- file: hs1940.png
+  date: 2018-08-10
+  short: 1920x1080px Wallpaper
+  desc: >-
+    Digitally manipulated screenshot from the Homestuck flash [[S] Descend](https://www.homestuck.com/story/1940).
+- file: dfmap.png
+  date: 2018-12-16
+  short: 1920x1080px Wallpaper
+  desc: >-
+    Screenshot of a [Dwarf Fortress](https://bay12games.com/dwarves/) map.
+- file: missingtex.png
+  date: 2018-12-16
+  short: 1920x1080px Wallpaper
+  desc: >-
+    Warped Source Engine-style ["missing texture"](https://developer.valvesoftware.com/wiki/Missing_content) graphic, produced in Paint.NET.
+- file: bubbles.png
+  date: 2018-12-16
+  short: 1920x1080px Wallpaper
+  desc: >-
+    Black orbs in green fluid. Kind of remind me of Orbeez. Produced using Paint.NET filters.
+- file: greygrid.png
+  date: 2018-12-16
+  short: 1920x1080px Wallpaper
+  desc: >-
+    Muted grid of black and grey squares, produced in Paint.NET.
+- file: rainbowsymbols.png
+  date: 2018-12-21
+  short: 1920x1080px Wallpaper
+  desc: >-
+    Multicolored symbols. I can't remember what font that is, and I'm only guessing that I composed this image by editing a screenshot of something's console output.
+- file: curves.png
+  date: 2019-03-15
+  short: 1920x1080px Wallpaper
+  desc: >-
+    Colorful curved staircase pattern produced using Paint.NET filters.
+- file: f3.png
+  date: 2020-05-02
+  short: 1920x1080px Wallpaper
+  desc: >-
+    This screen is briefly shown when Fightcade's Neo Geo emulator is reset (<kbd>F3</kbd>). I got this screenshot playing Metal Slug 3, with a CRT scanlines/curvature filter on.
