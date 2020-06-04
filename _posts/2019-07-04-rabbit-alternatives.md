@@ -2,7 +2,7 @@
 title: Rabbit alternatives
 ---
 
-[Rabbit] is [shutting down][news], due to lack of funds. The reasons for this are outlined in the first paragraph of the Linkedin post.
+[Rabbit][rabbit-w] is [shutting down][news], due to lack of funds. The reasons for this are outlined in the first paragraph of the Linkedin post.
 
 So, here's some alternatives to Rabbit. These two entries first explain the service's essential features (what they can do), and then include instructions on a basic setup for using them with your friends.
 
