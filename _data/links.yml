@@ -1,3 +1,6 @@
+- name: Mastodon
+  icon: fab w-mastodon
+  href: https://mastodon.online/@ada
 - name: Twitter
   icon: fab w-twitter
   href: https://twitter.com/technoabyss
