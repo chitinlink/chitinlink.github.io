@@ -14,8 +14,6 @@ I'm agender. Because the english language is gendered, and for the sake of unenc
 I'm not well-read on politics but I agree with most communist and anti-imperialist rhetoric.  
 I believe everyone has a right to be treated fairly -- to be fed and clothed, to stable housing and infrastructure, and allowed to flourish without undue stress.
 
-I'm [available for web design work](https://twitter.com/technoabyss/status/1222519819146334208) if you're interested in that.
-
 I like SCP quite a bit. My favorite entry is [taboo](http://www.scp-wiki.net/taboo).
 
 <details markdown="1"><summary>Webcomics</summary>
