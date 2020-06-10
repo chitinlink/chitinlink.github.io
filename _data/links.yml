@@ -1,6 +1,3 @@
-- name: Email
-  icon: fas w-at
-  href: mailto:interimgoliath@gmail.com
 - name: Twitter
   icon: fab w-twitter
   href: https://twitter.com/technoabyss
