@@ -4,7 +4,8 @@ layout: side
 
 ## art
 
-<p style="text-align: center">Sporadic images</p>
+<p style="text-align: center">Sporadic images<br>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike 4.0 International License">CC BY-SA 4.0</a></p>
 
 {% include back.html %}
 
