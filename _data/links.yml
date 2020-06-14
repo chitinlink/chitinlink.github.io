@@ -13,3 +13,6 @@
 - name: Tumblr
   icon: fab w-tumblr
   href: https://technoabyss.tumblr.com/
+- name: Keybase
+  icon: fab w-keybase
+  href: https://keybase.io/technoabyss
