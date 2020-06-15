@@ -6,6 +6,9 @@ safe: true
 markdown: kramdown
 
 collections:
+  sides:      { output: true, permalink: /:slug }
+  redirects:  { output: true, permalink: /:slug }
+  funny_pics: { output: true, permalink: /:slug }
   posts:
     output: true
     permalink: /blog/:slug
