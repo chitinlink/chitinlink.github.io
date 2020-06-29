@@ -1,5 +1,5 @@
 ---
-layout: side
+
 ---
 
 ## art

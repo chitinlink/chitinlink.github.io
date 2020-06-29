@@ -24,6 +24,14 @@ defaults:
       path: _posts
     values:
       layout: post
+  - scope:
+      path: _redirects
+    values:
+      layout: redirect
+  - scope:
+      path: _sides
+    values:
+      layout: side
 
 include:
   - .well-known
