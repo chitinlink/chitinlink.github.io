@@ -1,22 +1,32 @@
 <div id="grid">
-  {% assign local = "/" | absolute_url %}
-  {% for item in site.data.grid %}
-  {% assign out = item.link | absolute_url %}
-  {% unless out contains local %}{% assign ext = 'rel="external" referrerpolicy="no-referrer"' %}{% endunless %}
-  {% assign a = forloop.index0 | modulo: 2 %}
-  {% capture parity %}{% if a == 0 %}even{% else %}odd{% endif %}{% endcapture %}
-  <div class="item" id="i-{{ item.name | split: ' ' | join: '-' | downcase }}">
-    <div class="card {{ parity }}">
-      <div class="front" style="background-image: url('/assets/img/{{ item.image }}')"></div>
-      <div class="back">
-        <div class="name-and-date">
-          <h2 class="name"><a href="{{ item.link }}" {{ ext }}>{{ item.name }}</a></h2>
-          <div class="date"><a href="{{ item.link }}" {{ ext }}>{{ item.date }}</a></div>
+  {%
+  assign local = "/" | absolute_url %}{%
+  assign grid = site.data.grid | reverse %}{%
+  for item in grid %}{%
+    assign out = item.link | absolute_url %}{%
+    unless out contains local %}{%
+      assign ext = 'rel="external" referrerpolicy="no-referrer"' %}{%
+    endunless %}{%
+    assign a = forloop.index0 | modulo: 2 %}{%
+    capture parity %}{%
+      if a == 0
+        %}even{%
+      else
+        %}odd{%
+      endif %}{%
+    endcapture %}
+    <div class="item" id="i-{{ item.name | split: ' ' | join: '-' | downcase }}">
+      <div class="card {{ parity }}">
+        <div class="front" style="background-image: url('/assets/img/{{ item.image }}')"></div>
+        <div class="back">
+          <div class="name-and-date">
+            <h2 class="name"><a href="{{ item.link }}" {{ ext }}>{{ item.name }}</a></h2>
+            <div class="date"><a href="{{ item.link }}" {{ ext }}>{{ item.date }}</a></div>
+          </div>
+          <p class="description">{{ item.description }}</p>
+          <div class="biglink"><a alt="Link" title="Link" href="{{ item.link }}" {{ ext }}><i class="fas w-link"></i></a></div>
         </div>
-        <p class="description">{{ item.description }}</p>
-        <div class="biglink"><a href="{{ item.link }}" {{ ext }}>Link</a></div>
       </div>
     </div>
-  </div>
   {% endfor %}
 </div>
