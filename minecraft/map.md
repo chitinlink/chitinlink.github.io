@@ -1,4 +1,4 @@
 ---
 layout: redirect
-href: "https://mc.galaxybra.in/map"
+href: "https://x.galaxybra.in/map"
 ---
