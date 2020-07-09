@@ -4,7 +4,7 @@ layout: side
 
 ## Minecraft
 
-<div style="text-align: center"><a class="fat" href="{{ '/minecraft/map' | absolute_url }}">Server Map</a></div>
+<div style="text-align: center"><a class="fat" href="map">Server Map</a></div>
 
 ### Basic info
 
@@ -19,6 +19,7 @@ There is no specific goal to the server, you can just do whatever as long as you
 <details markdown="1"><summary>Server rules</summary>
 
 1. No griefing in general
+  * Don't destroy player-built landscapes and structures.
   * (Check the allowed exploits under Technical Details)
 2. Don't litter -- don't make the map look bad. Examples:
   * Dirt pillars/bridges
@@ -26,18 +27,14 @@ There is no specific goal to the server, you can just do whatever as long as you
 3. Don't lag out the server. Examples:
   * Animal pens with too many animals
   * Stray minecarts
-  * Always-on redstone machines
-
-Ask if you want to break rule 3 for something. My answer will probably be to do it somewhere far away.
+  * Always-on machines
+  * Exceptions can be made, ask in advance for one.
 
 </details>
 
-#### ⚠️ 1.16 Nether reset ⚠️
+#### ⚠️ 1.16.2 Update **AND** Nether reset ⚠️
 
-We will be resetting the Nether for 1.16.
-
-* I will re-establish all portal connections in Creative when we do this.
-* If you have something in the Nether you REALLY want to keep, tell me before 1.16 comes out.
+We're postponing updating until 1.16.2, and when it comes we'll reset the Nether as well.
 
 ---
 
@@ -118,19 +115,19 @@ RNG manipulation
 
 ### Mods, etc.
 
-The server requires **no** mods. These are recommendations.
+**The server requires no mods.** These are recommendations.
 
 * [MultiMC Launcher](https://multimc.org/)
 
 <details markdown="1"><summary>Mods</summary>
 
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
-* [Optifine](://optifine.net/home) & [Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)
+* [Optifine](https://optifine.net/home) & [Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)
+* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (Shows Saturation in HUD + other food info)
+* [CakeChomps](https://www.curseforge.com/minecraft/mc-mods/cake-chomps/)
 * [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/mini-hud) (Cleaner & customizable alt F3 menu)
 * [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) (Schematic mod)
-* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (Shows Saturation in HUD + other food info)
 * [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) (Several different tweaks like flexible block placement, hand restock, fast clicking, etc)
-* [CakeChomps](https://www.curseforge.com/minecraft/mc-mods/cake-chomps/)
 
 </details>
 
