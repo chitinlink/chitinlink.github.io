@@ -78,3 +78,8 @@
   short: 1024x1024px Album Cover
   desc: >-
     Made with Paint.NET filters, particularly Julia Fractal.
+- file: collision.png
+  date: 2020-07-19
+  short: 800x600px ???
+  desc: >-
+    Made with around 200 version 4 UUIDs and a jitter filter. Font is Fira Mono.
