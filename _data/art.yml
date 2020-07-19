@@ -83,6 +83,11 @@
   short: 800x600px ???
   desc: >-
     Made with around 200 version 4 UUIDs and a jitter filter. Font is Fira Mono.
+- file: triple_point.png
+  date: 2020-07-19
+  short: 2048x2048px ???
+  desc: >-
+    A fool's instrument.
 - file: sign_for_interference.png
   date: 2020-07-19
   short: 2048x2048px ???
