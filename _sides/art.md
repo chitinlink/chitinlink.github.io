@@ -5,7 +5,12 @@
 ## art
 
 <p style="text-align: center">Sporadic images<br>
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike 4.0 International License">CC BY-SA 4.0</a></p>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" title=" Attribution-NonCommercial-ShareAlike 4.0 International License">CC BY-NC-SA 4.0</a><br>
+<i class="fab w-creative-commons"></i>
+<i class="fab w-creative-commons-by"></i>
+<i class="fab w-creative-commons-nc"></i>
+<i class="fab w-creative-commons-sa"></i>
+</p>
 
 {% include back.html %}
 
