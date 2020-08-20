@@ -1,4 +1,5 @@
 ---
+title: minecraft server info
 layout: side
 ---
 
