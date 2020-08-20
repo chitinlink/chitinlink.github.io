@@ -38,3 +38,9 @@ When referring to **things *far away* from the ship**, mainly other ships in the
 ## Notes
 
 This is intended for gameplay and is not entirely accurate to real life nautical terms. For instance, the hind mast is actually called a *mizzenmast*.
+
+We use *port* and *starboard* instead of *left* and *right* with regards to the ship because it's faster. "Left of us" is the same as "portside" because you're saying *us* to refer to the ship.  
+You're better served using two dedicated terms for those directions. That way, when someone says "to the left", you can look to your left knowing that if they meant the ship's left they'd have said "portside".  
+In some situations, you might still use "left" and "right", for instance if you say "turning left" this is fine. What else would you turn besides the ship?
+
+See also Wikipedia's [Glossary of nautical terms](https://en.wikipedia.org/wiki/Glossary_of_nautical_terms) and the [Galleon](https://seaofthieves.gamepedia.com/Galleon) page on the SoT wiki.
