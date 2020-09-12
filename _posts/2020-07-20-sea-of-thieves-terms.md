@@ -35,6 +35,12 @@ When referring to **things *far away* from the ship**, mainly other ships in the
 "Shoreleave"
 : When you're given shoreleave, it means you're allowed to do whatever in the island you're parked at.
 
+"Broadside" (verb)
+: *Broadsiding* a ship means firing on it from the side. It's important because cannon fire has to be coordinated and uninterrupted to win damage trades.
+
+"Windward" and "Leeward"
+: The direction the wind blows in and the one opposite that, respectively. In the context of directions, *wind* and *lee* are also good.
+
 ## Notes
 
 This is intended for gameplay and is not entirely accurate to real life nautical terms. For instance, the hind mast is actually called a *mizzenmast*.
