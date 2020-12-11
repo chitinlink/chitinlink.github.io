@@ -11,11 +11,6 @@ I spend a lot of my free time in calls, doing whatever in the background.
 
 I'm agender. Because the english language is gendered, and for the sake of unencumbering speech, I use "she" and "her" pronouns and prefer to be addressed with feminine forms. You're free to call me a "girl" and so on if you like. I'm also pansexual and polyamorous, if that matters to you.
 
-I'm not well-read on politics but I agree with most communist and anti-imperialist rhetoric.  
-I believe everyone has a right to be treated fairly -- to be fed and clothed, to stable housing and infrastructure, and allowed to flourish without undue stress.
-
-I like SCP quite a bit. My favorite entry is [taboo](http://www.scp-wiki.net/taboo).
-
 <details markdown="1"><summary>Webcomics</summary>
 I'm keeping up with a number of webcomics atm:
 
@@ -96,7 +91,7 @@ I'm planning to watch:
 <details markdown="1"><summary>Podcasts</summary>
 I listen to podcasts in my commute and when I'm doing chores or mindless tasks.
 
-Right now I'm mostly listening to [Friends at the Table](http://www.friendsatthetable.net/). I'm in Winter in Hieron.
+Right now I'm listening to [Wolf 359](https://www.wolf359.fm/).
 
 I also listen to [Abnormal Mapping](https://www.abnormalmapping.com/abnormal-mapping/) occasionally.
 
@@ -106,9 +101,10 @@ I have finished listening to:
 - [FATT: Autumn in Hieron](http://www.friendsatthetable.net/2014/09)
 - [FATT: COUNTER/Weight](http://friendsatthetable.net/category/COUNTERWeight)
 - [FATT: Marielda](http://friendsatthetable.net/category/Marielda)
+- [FATT: Winter in Hieron](http://friendsatthetable.net/category/Winter+in+Hieron)
 
 I want to try listening to these, when I have the time:
 
-- [Wolf 359](https://www.wolf359.fm/)
+- [FATT: Twilight Mirage](http://friendsatthetable.net/category/Twilight+Mirage)
 - [The Magnus Archives](http://rustyquill.com/the-magnus-archives/)
 </details>
