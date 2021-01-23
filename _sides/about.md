@@ -9,7 +9,7 @@ My timezone is more or less [UTC](https://time.is/just/UTC).
 I'm more active on Discord than anywhere else. If you want my tag, ask me in private. Same thing for my Steam account.  
 I spend a lot of my free time in calls, doing whatever in the background.
 
-I'm agender. Because the english language is gendered, and for the sake of unencumbering speech, I use "she" and "her" pronouns and prefer to be addressed with feminine forms. You're free to call me a "girl" and so on if you like. I'm also pansexual and polyamorous, if that matters to you.
+I'm agender. The short version is: I use he/she, but don't shuffle them. Just pick one and stick with it for consistency. I'm also pansexual and polyamorous, if that matters to you.
 
 <details markdown="1"><summary>Webcomics</summary>
 I'm keeping up with a number of webcomics atm:
@@ -23,7 +23,7 @@ I'm keeping up with a number of webcomics atm:
 
 I also read these at some point:
 
-- [Homestuck](https://www.homestuck.com/) (Finished, I'll read HS^2 eventually)
+- [Homestuck](https://www.homestuck.com/) (Finished, ~~I'll read HS^2 eventually~~ Who knows?)
 - Walkyverse<sup>([what is this?](https://walkypedia.fandom.com/wiki/Walkyverse))</sup> (Finished all of these) 
   - Roomies!
   - It's Walky!
