@@ -76,13 +76,12 @@ I also watch cartoons / western animation sometimes. I've finished these:
   - Steven Universe Future
 - Star vs. the Forces of Evil
 - Wakfu: The Animated Series (Seasons 1 & 2)
-- She-Ra and the Princesses of Power (Seasons 1, 2, 3, 4)
+- She-Ra and the Princesses of Power
 - Over the Garden Wall
 
 I'm planning to watch:
 
 - Wakfu: The Animated Series (Season 3)
-- She-Ra and the Princesses of Power (Season 5)
 - My Little Pony: Friendship Is Magic (We'll see how much)
 - The Owl House
 - Gravity Falls <small>(I got close to but didn't finish it, so I want to rewatch it)</small>
