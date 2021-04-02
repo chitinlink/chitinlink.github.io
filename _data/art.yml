@@ -1,108 +1,142 @@
-- file: grocnak.png
+- type: single
+  file: grocnak.png
   date: 2016-09-24
   short: Pixel art
   desc: >-
     Horned hardskull.
-- file: sin.png
+- type: single
+  file: sin.png
   date: 2016-09-24
   short: Pixel art
   desc: >-
     Cute icon (of sin)
-- file: rudie.png
+- type: single
+  file: rudie.png
   date: 2016-09-24
   short: Pixel art
   desc: >-
     Kind of a deer face.
-- file: jeremy.png
+- type: single
+  file: jeremy.png
   date: 2016-09-24
   short: Pixel art
   desc: >-
     Wink!
-- file: elle.png
+- type: single
+  file: elle.png
   date: 2016-09-25
   short: Pixel art
   desc: >-
     Breathing deep.
-- file: hexview.png
+- type: single
+  file: hexview.png
   date: 2018-08-18
   short: 1500x500px Banner
   desc: >-
     Digitally manipulated screenshot of a hex editor
-- file: hs1940.png
+- type: single
+  file: hs1940.png
   date: 2018-08-10
   short: 1920x1080px Wallpaper
   desc: >-
     Digitally manipulated screenshot from the Homestuck flash [[S] Descend](https://www.homestuck.com/story/1940).
-- file: dfmap.png
+- type: single
+  file: dfmap.png
   date: 2018-12-16
   short: 1920x1080px Wallpaper
   desc: >-
     Screenshot of a [Dwarf Fortress](https://bay12games.com/dwarves/) map.
-- file: missingtex.png
+- type: single
+  file: missingtex.png
   date: 2018-12-16
   short: 1920x1080px Wallpaper
   desc: >-
     Warped Source Engine-style ["missing texture"](https://developer.valvesoftware.com/wiki/Missing_content) graphic, produced in Paint.NET.
-- file: bubbles.png
+- type: single
+  file: bubbles.png
   date: 2018-12-16
   short: 1920x1080px Wallpaper
   desc: >-
     Black orbs in green fluid. Kind of remind me of Orbeez. Produced using Paint.NET filters.
-- file: greygrid.png
+- type: single
+  file: greygrid.png
   date: 2018-12-16
   short: 1920x1080px Wallpaper
   desc: >-
     Muted grid of black and grey squares, produced in Paint.NET.
-- file: rainbowsymbols.png
+- type: single
+  file: rainbowsymbols.png
   date: 2018-12-21
   short: 1920x1080px Wallpaper
   desc: >-
     Multicolored symbols. I can't remember what font that is, and I'm only guessing that I composed this image by editing a screenshot of something's console output.
-- file: curves.png
+- type: single
+  file: curves.png
   date: 2019-03-15
   short: 1920x1080px Wallpaper
   desc: >-
     Colorful curved staircase pattern produced using Paint.NET filters.
-- file: keyboard.png
+- type: single
+  file: keyboard.png
   date: 2020-02-13
   short: 6400x4800 ???
   desc: >-
     Filtered and then edited photo of a keyboard.
-- file: f3.png
+- type: single
+  file: f3.png
   date: 2020-05-02
   short: 1920x1080px Wallpaper
   desc: >-
     This screen is briefly shown when Fightcade's Neo Geo emulator is reset (<kbd>F3</kbd>). I got this screenshot playing Metal Slug 3, with a CRT scanlines/curvature filter on.
-- file: julia.png
+- type: single
+  file: julia.png
   date: 2020-07-19
   short: 1024x1024px Album cover
   desc: >-
     Made with Paint.NET filters, particularly Julia Fractal.
-- file: collision.png
+- type: single
+  file: collision.png
   date: 2020-07-19
   short: 800x600px ???
   desc: >-
     Made with around 200 version 4 UUIDs and a jitter filter. Font is Fira Mono.
-- file: triple_point.png
+- type: single
+  file: triple_point.png
   date: 2020-07-19
   short: 2048x2048px ???
   desc: >-
     A fool's instrument.
-- file: sign_for_interference.png
+- type: single
+  file: sign_for_interference.png
   date: 2020-07-19
   short: 2048x2048px ???
   desc: >-
     Some kind of sigil.
     [You can buy this if you want.](https://www.teepublic.com/t-shirt/12371755-sigil-for-interference)
-- file: scrip.png
+- type: single
+  file: scrip.png
   date: 2020-07-19
   short: 2048x2048px Album cover
   desc: >-
     Not enough.
     [You can buy this if you want.](https://www.teepublic.com/t-shirt/12373401-scrip)
-- file: computer.png
+- type: single
+  file: computer.png
   date: 2020-07-31
   short: 2048x2048px Album cover
   desc: >-
     💻
     [You can buy the background pattern if you want.](https://www.teepublic.com/tapestry/12672578-brightwood-pattern)
+- type: multiple
+  id: blades
+  files:
+    - blades.png
+    - frayed_star.png
+    - spinning_top.png
+    - ball.png
+    - pat1.png
+    - pat2.png
+  date: 2021-04-01
+  short: 2048x2048px ???
+  desc: >-
+    Some experiments with layer blend mode XOR.
