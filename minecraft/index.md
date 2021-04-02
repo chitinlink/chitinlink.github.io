@@ -7,6 +7,8 @@ layout: side
 
 <div style="text-align: center"><a class="fat" href="map">Server Map</a></div>
 
+# Note: this server is currently down. It will be archived soon.
+
 ### Basic info
 
 You must be whitelisted to join, ask me about it.  
@@ -32,12 +34,6 @@ There is no specific goal to the server, you can just do whatever as long as you
   * Exceptions can be made, ask in advance for one.
 
 </details>
-
-#### ⚠️ 1.16.2 Update **AND** Nether reset ⚠️
-
-We're postponing updating until 1.16.2, and when it comes we'll reset the Nether as well.
-
----
 
 <details markdown="1"><summary>Technical details</summary>
 
