@@ -71,26 +71,24 @@ I watch anime occasionally, and I have a [MyAnimeList](https://myanimelist.net/p
 I also watch cartoons / western animation sometimes. I've finished these:
 
 - Adventure Time
-- Steven Universe
-  - Steven Universe: The Movie
-  - Steven Universe Future
+- Steven Universe (& Movie & Future)
 - Star vs. the Forces of Evil
 - Wakfu: The Animated Series (Seasons 1 & 2)
 - She-Ra and the Princesses of Power
-- Over the Garden Wall
+- Over the Garden 
+- The Owl House
+- Gravity Falls
 
 I'm planning to watch:
 
 - Wakfu: The Animated Series (Season 3)
 - My Little Pony: Friendship Is Magic (We'll see how much)
-- The Owl House
-- Gravity Falls <small>(I got close to but didn't finish it, so I want to rewatch it)</small>
+- Infinity Train
+- Amphibia
 </details>
 
 <details markdown="1"><summary>Podcasts</summary>
 I listen to podcasts in my commute and when I'm doing chores or mindless tasks.
-
-Right now I'm listening to [Wolf 359](https://www.wolf359.fm/).
 
 I also listen to [Abnormal Mapping](https://www.abnormalmapping.com/abnormal-mapping/) occasionally.
 
@@ -101,6 +99,7 @@ I have finished listening to:
 - [FATT: COUNTER/Weight](http://friendsatthetable.net/category/COUNTERWeight)
 - [FATT: Marielda](http://friendsatthetable.net/category/Marielda)
 - [FATT: Winter in Hieron](http://friendsatthetable.net/category/Winter+in+Hieron)
+- [Wolf 359](https://www.wolf359.fm/)
 
 I want to try listening to these, when I have the time:
 
