@@ -76,7 +76,7 @@ I also watch cartoons / western animation sometimes. I've finished these:
 - Wakfu: The Animated Series (Seasons 1 & 2)
 - She-Ra and the Princesses of Power
 - Over the Garden 
-- The Owl House
+- The Owl House Season 1
 - Gravity Falls
 
 I'm planning to watch:
