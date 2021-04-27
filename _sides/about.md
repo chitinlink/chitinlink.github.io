@@ -75,16 +75,17 @@ I also watch cartoons / western animation sometimes. I've finished these:
 - Star vs. the Forces of Evil
 - Wakfu: The Animated Series (Seasons 1 & 2)
 - She-Ra and the Princesses of Power
-- Over the Garden 
+- Over the Garden Wall
 - The Owl House Season 1
 - Gravity Falls
+- Amphibia Season 1
+- RWBY (Up to Vol.4)
 
 I'm planning to watch:
 
 - Wakfu: The Animated Series (Season 3)
 - My Little Pony: Friendship Is Magic (We'll see how much)
 - Infinity Train
-- Amphibia
 </details>
 
 <details markdown="1"><summary>Podcasts</summary>
