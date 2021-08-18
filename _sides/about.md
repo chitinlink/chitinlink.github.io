@@ -6,7 +6,7 @@
 
 My timezone is more or less [UTC](https://time.is/just/UTC).
 
-I'm more active on Discord than anywhere else. If you want my tag, ask me in private. Same thing for my Steam account.  
+I'm more active on Discord than anywhere else. If you want my tag, ask me in private.  
 I spend a lot of my free time in calls, doing whatever in the background.
 
 I'm agender. The short version is: I use he/she, but don't shuffle them. Just pick one and stick with it for consistency. I'm also pansexual and polyamorous, if that matters to you.
@@ -18,7 +18,7 @@ I'm keeping up with a number of webcomics atm:
 - [Dumbing of Age](http://www.dumbingofage.com/2010/comic/book-1/01-move-in-day/home/)
 - [Prequel](https://www.prequeladventure.com/2011/03/prequel-begin/)
 - [Kill Six Billion Demons](https://killsixbilliondemons.com/comic/kill-six-billion-demons-chapter-1/)
-<!-- - [Gather Ye Power](https://www.webtoons.com/en/challenge/gather-ye-power/list?title_no=327553&page=1) commented out until I actually catch up lol -->
+- [Gather Ye Power](https://www.webtoons.com/en/challenge/gather-ye-power/list?title_no=327553&page=1)
 - [SAKANA](https://www.sakana-comic.com/comic/title-page-vol-1)
 
 I also read these at some point:
@@ -76,9 +76,9 @@ I also watch cartoons / western animation sometimes. I've finished these:
 - Wakfu: The Animated Series (Seasons 1 & 2)
 - She-Ra and the Princesses of Power
 - Over the Garden Wall
-- The Owl House Season 1
 - Gravity Falls
 - Amphibia Season 1
+- The Owl House Season 1
 - RWBY (Up to Vol.4)
 
 I'm planning to watch:
@@ -86,12 +86,14 @@ I'm planning to watch:
 - Wakfu: The Animated Series (Season 3)
 - My Little Pony: Friendship Is Magic (We'll see how much)
 - Infinity Train
+- Amphibia Season 2
+- The Owl House Season 2
 </details>
 
 <details markdown="1"><summary>Podcasts</summary>
 I listen to podcasts in my commute and when I'm doing chores or mindless tasks.
 
-I also listen to [Abnormal Mapping](https://www.abnormalmapping.com/abnormal-mapping/) occasionally.
+I'm currently listening to [The Shrieking Shack](https://soundcloud.com/shriekingshack), interspersed with Harry Potter audiobooks.
 
 I have finished listening to:
 
@@ -101,6 +103,8 @@ I have finished listening to:
 - [FATT: Marielda](http://friendsatthetable.net/category/Marielda)
 - [FATT: Winter in Hieron](http://friendsatthetable.net/category/Winter+in+Hieron)
 - [Wolf 359](https://www.wolf359.fm/)
+
+I also listen to [Abnormal Mapping](https://www.abnormalmapping.com/abnormal-mapping/) occasionally.
 
 I want to try listening to these, when I have the time:
 
