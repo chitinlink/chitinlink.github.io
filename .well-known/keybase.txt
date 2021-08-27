@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/technoabyss
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chitin.link
+  * I am technoabyss (https://keybase.io/technoabyss) on keybase.
+  * I have a public key with fingerprint D134 6961 8715 FD49 F6CA  D95B 3DBD E8BD F3E2 0AF0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012088b25b24682f93c2277fd32ead5f2b71ce5df589375e23b5c8aaedf45e951f870a",
+      "fingerprint": "d13469618715fd49f6cad95b3dbde8bdf3e20af0",
+      "host": "keybase.io",
+      "key_id": "3dbde8bdf3e20af0",
+      "kid": "0101ff1bd2140ff7a9e3779bd0b15dc426fb0898c6977c4cc98bf23daf761fef555d0a",
+      "uid": "82f469784ecdfea3bf985a5bdd6d0119",
+      "username": "technoabyss"
+    },
+    "service": {
+      "hostname": "chitin.link",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1630093234,
+  "expire_in": 157680000,
+  "prev": "106019a4e3fbd638ceaa1ce565a069c08a4e36ae8139d79efab0ed2728af914d",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNwAnicbVJrUFVFHL8g15E72OCINPmo4SAZhHTej6uYMw5ojTwirJHS656zu9wj
+eC7ce0AeOkCPwUhBSLmClVD46ANEUAypoBCgBTqTIkVZQ0DBUGMZLwccpnMY/dZ+
+2dn9Pfb3/++/a/kSi80num28bXLY9o9Pb0d1lgWEv9iUT8gumEvY84k0tLihdIg8
+uiNNhYSdICmaFEWZ5mSa5UUaS4xC04KAIUMjADlMywKlIA5iTpQYgUM0I3OKCACC
+mOWQxFFYFEhARBJY1VKRO8OtarphCymG5SWeEgWKw5CVMK8AKHEyA2WIRBliBtEk
+wKQhdLo8psIIJwMPilJdxp1xcCzG+x/+49wkhTElQ5piSYwFICFGECQZkjLFQYWl
+eSyToiQqvCQICqsokihjmoEACzyFEeY4Di7mzlq0Myo38goiixSIEWBkLIkc4GQI
+eUhSlGQSPcitgQPIYOtIcWouIOd6PMThSMIAslUFmb01i3lEUpyqrmpR6aqWZqgz
+3C7dpbjSDcCp6xkeuynUczNM5kEkOx55OGRVg0YnDUU2cntUl0bYKYOp6KppSvEM
+SUoMzbCRBMrJUN3IoZoMTuBF0ljmOyjbsKRInqQkwCIGy5BnRAUBYP4jzwGSlxRS
+NCEeIJFiJChICAOZRJAWaBFgiWIhYVaVqbkIO2OY6iDV8PSoqRrQs9yIONzZ8aaf
+xcdmWWr1NUfMYvMPfDx4mWKgxcvd6xz+Yt+a5qeyj89UzT/bu75wfMfeRC1wcsfE
+6+l5EyHLS2vb/z4J+/fXpiaeWnlnZfzQV2vku/lLK+dBygvViaH15Qm/1N0IC2Vj
+rz3ZtGmTM6XknZhc5Wjz6m3batPrwuNirFu2ei+rbytlfdVPP3CU900zg10h686u
+fS2CnauMjvy5+N8cXXuitCDBP2gud9zvQOGvMCI+fOSiagt6+Glb0oU32vefK9pX
+N1VWu65O9frldZ0InUy+Nwj5V/vrP+it6v/8mY6byfLQgtJ8cNA2NTbhbH1u1Sws
+L2t8uH1o9vu8+f69EyGXV3zSuCtqRWbCqbj8Erdl7cCSI65DyvGE5OJbW75uLE0K
+i/shKco1u/7Hmycdfw149Zbteya7l8VF/lE0uhDs3TpyekpN+LMv3eOstMY6Ervu
+BjmvVdx67zz3e/Erv9XsJgpODH5WcaVzbOfGlCa9AZUvC7vTUhmkjHdkXKyRB7U0
+8WNMkNOFPT3egFZXU+T9zVXfznWMLFzdbRmLulS9scx64dAx2tqjfrOh6H7sTy3x
+yvBAd4lj4tyZgKzRbmFm1Z6K7O8az/cV7Drjf5R5qwH45rTOtHfFXB9gIto2HCHf
+va0UjXrwpbbbtp3XX+58wI/P+043TE1feT96LPjLPvtL9authcVtp8nNHwZ8NN0e
+rtWcbX1++mrmjbTA4P8AV6TQuQ==
+=ktY+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/technoabyss
+
+==================================================================
