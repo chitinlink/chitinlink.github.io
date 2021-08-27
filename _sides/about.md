@@ -80,12 +80,13 @@ I also watch cartoons / western animation sometimes. I've finished these:
 - Amphibia Season 1
 - The Owl House Season 1
 - RWBY (Up to Vol.4)
+- Infinity Train (Seasons 1, 2, 3)
 
 I'm planning to watch:
 
 - Wakfu: The Animated Series (Season 3)
 - My Little Pony: Friendship Is Magic (We'll see how much)
-- Infinity Train
+- Infinity Train Season 4
 - Amphibia Season 2
 - The Owl House Season 2
 </details>
