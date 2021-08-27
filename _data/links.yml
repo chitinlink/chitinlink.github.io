@@ -1,21 +1,21 @@
-- name: Mastodon
-  icon: fab w-mastodon
-  href: https://x0r.be/@ada
 - name: Twitter
   icon: fab w-twitter
   href: https://twitter.com/technoabyss
-- name: Github
-  icon: fab w-github
-  href: https://github.com/technoabyss
+# - name: Mastodon
+#   icon: fab w-mastodon
+#   href: https://x0r.be/@ada
+# - name: Github
+#   icon: fab w-github
+#   href: https://github.com/technoabyss
 - name: YouTube
   icon: fab w-youtube
   href: https://www.youtube.com/channel/UCV7Wu5eImEcRhJKZzFa3RLQ
 - name: Twitch
   icon: fab w-twitch
   href: https://www.twitch.tv/technoabyss
-- name: Tumblr
-  icon: fab w-tumblr
-  href: https://technoabyss.tumblr.com/
-- name: Keybase
-  icon: fab w-keybase
-  href: https://keybase.io/technoabyss
+# - name: Tumblr
+#   icon: fab w-tumblr
+#   href: https://technoabyss.tumblr.com/
+# - name: Keybase
+#   icon: fab w-keybase
+#   href: https://keybase.io/technoabyss
