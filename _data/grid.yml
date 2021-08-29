@@ -12,3 +12,9 @@
   description: >-
     Website for y5.
     The most technically interesting part are the fake ads.
+- name: relationships
+  date: August 2021
+  image: relationships.png
+  link: /relationships
+  description: >-
+    Relationship mapper with a 3D force graph.
