@@ -77,18 +77,18 @@ I also watch cartoons / western animation sometimes. I've finished these:
 - She-Ra and the Princesses of Power
 - Over the Garden Wall
 - Gravity Falls
-- Amphibia Season 1
-- The Owl House Season 1
+- Amphibia (Seasons 1 & 2)
+- The Owl House (Seasons 1 & 2)
 - RWBY (Up to Vol.4)
 - Infinity Train (Seasons 1, 2, 3)
 
 I'm planning to watch:
 
-- Wakfu: The Animated Series (Season 3)
+- Wakfu: The Animated Series Season 3
 - My Little Pony: Friendship Is Magic (We'll see how much)
 - Infinity Train Season 4
-- Amphibia Season 2
-- The Owl House Season 2
+- The Owl House Season 3 if it ever comes out :/
+- RWBY Volumes 5 - 8
 </details>
 
 <details markdown="1"><summary>Podcasts</summary>
