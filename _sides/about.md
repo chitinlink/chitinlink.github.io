@@ -9,7 +9,7 @@ My timezone is more or less [UTC](https://time.is/just/UTC).
 I'm more active on Discord than anywhere else. If you want my tag, ask me in private.  
 I spend a lot of my free time in calls, doing whatever in the background.
 
-I'm agender, please refer to me in the 2nd person using "they" pronouns. I'm also pansexual and polyamorous, if that matters to you.
+I'm agender, so please use they/them, he/him, or she/her pronouns. Please don't mix them in sentences. I'm also pansexual and polyamorous, if that matters to you.
 
 <details markdown="1"><summary>Webcomics</summary>
 I'm keeping up with a number of webcomics atm:
