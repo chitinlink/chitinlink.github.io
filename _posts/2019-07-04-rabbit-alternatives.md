@@ -147,7 +147,6 @@ This post was last edited january 2020.
 [rabbit-w]:          https://en.wikipedia.org/wiki/Rabb.it
 [news]:              https://www.linkedin.com/pulse/hitting-wall-amanda-richardson/
 [news-archive]:      https://archive.fo/VDoXf
-[@technoabyss]:      https://twitter.com/technoabyss
 [cytube]:            https://cytu.be/
 [cytube-register]:   https://cytu.be/register
 [cytube-channel]:    https://cytu.be/account/channels

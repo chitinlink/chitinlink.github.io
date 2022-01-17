@@ -39,17 +39,13 @@ I'm a huge fan of format-breaking and hypertext stuff - the flashes in Homestuck
 <details markdown="1"><summary>Videogames</summary>
 I track the games I'm playing at [Backloggery](https://backloggery.com/technoabyss).
 
-I don't do it on purpose, but I end up changing the game I'm focusing on every few weeks.
-
-Here's some I usually come back to:
-
-- TF2 (I like jump maps)
-- Elite Dangerous
-- Minecraft (usually vanilla)
+These days I tend to focus on shorter, single player games.  
+I haven't been playing multiplayer games very much recently, but you can probably get me to join you on TF2 or Minecraft.  
+I like jump maps and vanilla.
 
 I really like Source-style movement. I'm waiting for [Momentum Mod](https://www.momentum-mod.org/) to come out...
 
-Here's some I really like:
+Here's some games I really like:
 
 - Hollow Knight
 - Ratz Instagib 2.0
@@ -61,10 +57,10 @@ Here's some I really like:
 </details>
 
 <details markdown="1"><summary>Anime</summary>
-I watch anime occasionally, and I have a [MyAnimeList](https://myanimelist.net/profile/technoabyss).
+I watch anime occasionally, and I have a [MyAnimeList](https://myanimelist.net/profile/chitinlink).
 
-- [Anime list](https://myanimelist.net/animelist/technoabyss)
-- [Manga list](https://myanimelist.net/mangalist/technoabyss)
+- [Anime list](https://myanimelist.net/animelist/chitinlink)
+- [Manga list](https://myanimelist.net/mangalist/chitinlink)
 </details>
 
 <details markdown="1"><summary>Cartoons</summary>
