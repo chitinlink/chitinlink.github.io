@@ -7,17 +7,9 @@ layout: side
 
 <div style="text-align: center"><a class="fat" href="map">Server Map</a></div>
 
-# Note: this server is currently down. It will be archived soon.
-
 ### Basic info
 
-You must be whitelisted to join, ask me about it.  
-You can use the regular Minecraft launcher if you want.  
-We are playing **1.15.2** vanilla Minecraft.
-
-If you want something you made to have a tooltip on the server map, ask for it.
-
-There is no specific goal to the server, you can just do whatever as long as you follow the rules.
+We are playing **1.19 vanilla** survival multiplayer Minecraft.
 
 <details markdown="1"><summary>Server rules</summary>
 
@@ -35,28 +27,33 @@ There is no specific goal to the server, you can just do whatever as long as you
 
 </details>
 
+To join the server, please ask to be whitelisted first.
+
+I recommend using my pre-made modpack, but you can join on a vanilla client.
+
+<details markdown="1"><summary>Modpack installation instructions</summary>
+
+1. Install [MultiMC Launcher](https://multimc.org/)
+2. Open MultiMC
+3. Add Instance > Import from zip > Paste in this URL: `https://x.chitin.link/share/etc/Ada_pack_v1.19_a.zip`
+
+</details>
+
 <details markdown="1"><summary>Technical details</summary>
 
-Map was originally generated in `1.14`. We then played on `1.14.1`, `1.14.2`, `1.15`, and now in `1.15.2`.
+Map was generated in `1.19`. [Seed](https://chunkbase.com/apps/biome-finder#-8409172646470349084): `-8409172646470349084`
 
-[Seed](https://chunkbase.com/apps/biome-finder#-1801724948): `-1801724948`
-
-The server is technically not vanilla, but the mods we have are for performance and enhancing the vanilla game:
-
-* [Carpet mod](https://github.com/gnembon/fabric-carpet) and [carpet-extra](https://github.com/gnembon/carpet-extra/)
-
-I plan to keep updating the server as new **stable** versions come out, and the world will always be the same. (**We WILL reset the Nether for 1.16 though so be warned**)
-
-Backups are done every day at [5AM UTC](https://time.is/just/UTC). The server lives somewhere in the Madeira archipelago.
+Backups are done every hour.
 
 <details markdown="1"><summary>Gamerules</summary>
 
 Gamerules (that are changed from defaults):
 
 | `disableElytraMovementCheck` |  `true`
-| `keepInventory`              |  `true`
-| `doInsomnia`                 |  `false`
 | `doImmediateRespawn`         |  `true`
+| `doInsomnia`                 |  `false`
+| `keepInventory`              |  `true`
+| `playersSleepingPercentage`  |  `51`
 
 </details>
 
@@ -70,11 +67,14 @@ We're using these Carpet options:
 `flippinCactus`
 : You can flip and rotate blocks when holding a cactus
 
-`horseWanderingFix`
-: Horses don't wander away
+`spawnChunksSize 0`
+: Spawn chunks are disabled altogether for performance and to obviate the need for digging them out.
 
-`kelpGenerationGrowthLimit 0`
-: World-generated kelp doesn't grow, which looks cooler
+`xpNoCooldown`
+: XP is absorved with no delay.
+
+`commandPlayer`
+: Enables the `/player` command which can be used to simulate a player. This is for if you want to AFK on a farm. Misuse will result in a ban.
 
 ... plus a number of fixes and optimizations
 
@@ -82,14 +82,19 @@ We're using these Carpet options:
 
 <details markdown="1"><summary>Datapacks</summary>
 
-We have these datapacks installed on the server:  
-(from [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/))
+We have these datapacks installed on the server:
 
-Nether Portal Coords
-: Adds `/trigger nc_inNether` and `/trigger nc_inOverworld` for determining corresponding coordinates in the Nether for syncing up portals
+No Villages
+: Completely removes villages from the game. Villagers can still be obtained by curing zombie villagers.
 
-Villager Death Messages
-: Writes a message to chat when a villager dies or is converted to a zombie villager
+No Enderman Griefing
+: Endermen cannot pick up blocks. This prevents them from messing with terraformed areas.
+
+Fast Leaf Decay
+: Leaves decay much faster after chopping the wood they were attached to.
+
+AFK Display
+: Players who are AFK will be greyed out on the player list.
 
 </details>
 
@@ -98,7 +103,7 @@ Villager Death Messages
 Please check with me if you want to do an exploit. Here's a list of exploits that are allowed on the server:
 
 TNT-duping 
-: don't do it near player structures, get at least 2000 blocks out from the spawn or ask me if you want to do it somewhere closer
+: don't do it anywhere near player structures, get at least 2000 blocks out from the spawn or ask me if you want to do it somewhere closer
 
 Bedrock-breaking
 : Freely in the Nether as long as it isn't ugly, ask for permission in the Overworld and the End
@@ -107,33 +112,5 @@ RNG manipulation
 : Freely for enchantments, otherwise ask
 
 </details>
-
-</details>
-
-### Mods, etc.
-
-**The server requires no mods.** These are recommendations.
-
-* [MultiMC Launcher](https://multimc.org/)
-
-<details markdown="1"><summary>Mods</summary>
-
-* [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
-* [Optifine](https://optifine.net/home) & [Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)
-* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (Shows Saturation in HUD + other food info)
-* [CakeChomps](https://www.curseforge.com/minecraft/mc-mods/cake-chomps/)
-* [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/mini-hud) (Cleaner & customizable alt F3 menu)
-* [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) (Schematic mod)
-* [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) (Several different tweaks like flexible block placement, hand restock, fast clicking, etc)
-
-</details>
-
-<details markdown="1"><summary>Resource Packs</summary>
-
-* [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs)
-* [Rainbow Diamond/Emerald Ores](https://cdn.discordapp.com/attachments/542044271063072769/676971998433247240/Rainbow_DiaEme.zip) (Highlights Diamond + Emerald ores)
-* [Hidden Diamond Armor](https://cdn.discordapp.com/attachments/542044271063072769/676972030561878036/HiddenDiamArmor.zip) (so you can see skins)
-* [Infested Block Hint](https://cdn.discordapp.com/attachments/542044271063072769/676972015369977937/InfestedBlocks.zip) (shows you silverfish-infested blocks)
-* [Scaffolding Hint](https://cdn.discordapp.com/attachments/542044271063072769/676971999859441675/Scaffolding.zip) (shows you scaffolding distance as color)
 
 </details>
