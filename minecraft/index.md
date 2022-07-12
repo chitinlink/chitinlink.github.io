@@ -35,7 +35,7 @@ I recommend using my pre-made modpack, but you can join on a vanilla client.
 
 1. Install [MultiMC Launcher](https://multimc.org/)
 2. Open MultiMC
-3. Add Instance > Import from zip > Paste in this URL: `https://x.chitin.link/share/etc/Ada_pack_v1.19_a.zip`
+3. Add Instance > Import from zip > Paste in this URL: `https://x.chitin.link/share/etc/mc2022/latest.zip`
 
 </details>
 
