@@ -1,9 +1,9 @@
 ---
-title: minecraft server info
+title: Allison's minecraft server info
 layout: side
 ---
 
-## Minecraft
+## Allison's Minecraft Server
 
 <div style="text-align: center"><a class="fat" href="map">Server Map</a></div>
 
