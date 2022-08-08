@@ -140,3 +140,9 @@
   short: 2048x2048px ???
   desc: >-
     Some experiments with layer blend mode XOR.
+- type: single
+  file: references.png
+  date: 2022-08-08
+  short: 1920x1080px Wallpaper
+  desc: >-
+    Screenshot of a Wikipedia article's references using a dark theme, filtered with Paint.NET.
