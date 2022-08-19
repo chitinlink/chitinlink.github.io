@@ -9,8 +9,6 @@ layout: side
 
 ### The server will launch on September 2nd at 6PM UTC! Check #events and #monster-energy-500ml
 
-### The client modpack is not available yet!
-
 We are playing **1.19.2 vanilla\*** survival multiplayer Minecraft.
 
 We will update to newer versions as the important mods the server uses get updated. This might mean a few months of lag behind Minecraft updates.
@@ -46,7 +44,7 @@ We will update to newer versions as the important mods the server uses get updat
 
 Note also that the game is on Hard difficulty, with `keepInventory` off.
 
-We have the syncmatica mod on the server, meaning if you can share your litematica schematics with other players.  
+We have the syncmatica mod on the server, meaning you can share your litematica schematics with other players.  
 I highly recommend designing things in Creative mode before building them in Survival on the server. It makes your life much easier.
 
 </details>
