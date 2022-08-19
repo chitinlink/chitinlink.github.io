@@ -9,6 +9,8 @@ layout: side
 
 ### The server will launch on September 2nd at 6PM UTC! Check #events and #monster-energy-500ml
 
+### The client modpack is not available yet!
+
 We are playing **1.19.2 vanilla\*** survival multiplayer Minecraft.
 
 We will update to newer versions as the important mods the server uses get updated. This might mean a few months of lag behind Minecraft updates.
