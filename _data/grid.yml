@@ -1,20 +1,30 @@
+- name: Rabbit alternatives
+  date: July 2019
+  image: grid/rabbit_alternatives.png
+  link: /blog/rabbit-alternatives
+  description: >-
+    Reflection on the best available alternatives to Rabbit, a now defunct "watch together" service.
 - name: Funeral City Archive
   date: 2019 (2012 - 2014)
-  image: funeralcity.png
+  image: grid/funeralcity.png
   link: /funeralcity
   description: >-
-    Archive of "Ron Paul Funeral City".
-    Easier to see than explain, though there's some info inside.
+    Archive of "Ron Paul Funeral City". Easier to see than explain, though there's some info inside.
+- name: Sea of Thieves Galleon Callouts
+  date: July 2020
+  image: grid/sea_of_thieves_galleon_callouts.png
+  link: /blog/sea-of-thieves-terms
+  description: >-
+    Sea of Thieves callouts for a 4-player galleon crew.
 - name: freemicrowave website
   date: March 2021
-  image: freemicrowave.png
+  image: grid/freemicrowave.png
   link: https://freemicrowave.net
   description: >-
-    Website for y5.
-    The most technically interesting part are the fake ads.
+    Website for y5. The most technically interesting part are the fake ads.
 - name: relationships
   date: August 2021
-  image: relationships.png
+  image: grid/relationships.png
   link: /relationships
   description: >-
     Relationship mapper with a 3D force graph.

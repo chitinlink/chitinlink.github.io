@@ -1,6 +1,6 @@
 - name: about me
   href: /about
-- name: blog
-  href: /blog
 - name: art
   href: /art
+# - name: blog
+#   href: /blog

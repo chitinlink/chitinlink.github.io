@@ -18,7 +18,7 @@ We will update to newer versions as the important mods the server uses get updat
 1. No griefing in general
   * Don't destroy player-built landscapes and structures.
   * (Check the allowed exploits under Technical Details)
-2. Don't litter -- Make the map look better and definitely don't make it worse. e.g.:
+2. Don't litter -- Make the map look better and definitely don't make "it worse. e.g.:
   * Permanent Dirt pillars/bridges
   * Floating trees
   * Creeper holes
