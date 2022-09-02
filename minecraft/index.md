@@ -5,9 +5,7 @@ layout: side
 
 ## Ammonite Minecraft Server
 
-<!-- <div style="text-align: center"><a class="fat" href="map">Server Map</a></div> -->
-
-### The server will launch on September 2nd at 6PM UTC! Check #events and #monster-energy-500ml
+<div style="text-align: center"><a class="fat" href="map">Server Map</a></div>
 
 We are playing **1.19.2 vanilla\*** survival multiplayer Minecraft.
 
