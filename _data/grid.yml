@@ -28,3 +28,9 @@
   link: /relationships
   description: >-
     Relationship mapper with a 3D force graph.
+- name: Watching stuff with friends in the current year
+  date: October 2022
+  image: grid/watchingstuff.png
+  link: https://cohost.org/chitinlink/post/91054-watching-stuff-with
+  description: >-
+    Extensive guide on how to host and watch videos with your friends.

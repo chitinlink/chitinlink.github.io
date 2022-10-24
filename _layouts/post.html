@@ -4,11 +4,11 @@
   <body>
     <div id="wrap">
       <div id="info" class="blog">
-        {% include back.html href="/blog" %}
+        {% include back.html href="/" %}
 
         <h2>{{ page.title }} <time datetime="{{ page.date | date_to_xml }}">{{ page.date | date_to_long_string }}</time></h2>
         {{ content }}
-        {% include back.html href="/blog" %}
+        {% include back.html href="/" %}
       </div>
     </div>
     <script src="/assets/script.js"></script>

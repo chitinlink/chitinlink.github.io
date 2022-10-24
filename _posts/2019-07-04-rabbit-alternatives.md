@@ -2,6 +2,8 @@
 title: Rabbit alternatives
 ---
 
+**This post is outdated.** It might still be worth reading, but I'm not gonna bother updating it anymore. Instead you should check out my newer post on [watching stuff with friends in the current year](/blog/watching-stuff-with-friends).
+
 [Rabbit][rabbit-w] is [shutting down][news], due to lack of funds. The reasons for this are outlined in the first paragraph of the Linkedin post.
 
 So, here's some alternatives to Rabbit. These two entries first explain the service's essential features (what they can do), and then include instructions on a basic setup for using them with your friends.
@@ -137,11 +139,6 @@ Here's some more alternatives and similar things worth linking:
   * You can make your own "club"
 * [SyncLounge](https://synclounge.tv/)
   * Allows you to sync Plex streams
-
----
-
-That's all we have right now. If you find this list could do with something else, message me.  
-This post was last edited january 2020.
 
 [rabbit]:            https://www.rabb.it/
 [rabbit-w]:          https://en.wikipedia.org/wiki/Rabb.it
