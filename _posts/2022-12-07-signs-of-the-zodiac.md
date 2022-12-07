@@ -6,7 +6,10 @@ You might recognize Garson's name from *Mother Earth's Plantasia*, which got a r
 
 {% include iframe.html src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_klMRQPQx5JiK1-BoH9oIaE6rss4wqfES8" %}
 
-I really like this album, which I first found via youtube recommendations, maybe sometime in 2016.
+I really like this album, but I think the first Mort Garson album I heard was *Ataraxia - The Unexplained* in 2016, which an old friend mentioned to me.
+
+{% include iframe.html src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_nHKqvc54TVjIEeYxYz18dZ_scIRc53JwI" %}
+
 After listening to it, I looked into the rest of Garson's discography, and listened to all of it.
 
 One other album of note was *The Zodiac - Cosmic Sounds*, with narration musing on aspects of each sign of the zodiac:
