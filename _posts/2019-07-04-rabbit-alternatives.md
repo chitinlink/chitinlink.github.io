@@ -18,13 +18,13 @@ Also, yes you can just use the screenshare on Discord, Skype, whatever. I don't 
 
 ### Cytube
 
-![Image of what Cytube looks like.](/assets/img/blog/rabbit_cytube_0.png)
+![Image of what Cytube looks like.](/assets/img/blog/rabbit2019/rabbit_cytube_0.png)
 
 [Cytube] works with youtube, vimeo, dailymotion, soundcloud links, and direct audio and video files. This means, if you can host the file on a server somewhere, and the file is compatible (`.mp4`, `.avi`, `.mp3`, etc.), it will play on cytube and remain synced for everyone watching.
 
 Cytube employs a "leader" option when syncing media: Usually when something is playing, there is no way to pause, or rewind. It will simply try to keep everyone watching on par with the video as it plays on the server side, unless someone "takes" leader. If you take leader, the video is synced for everyone else based on where you are, which means you can pause and rewind if needed. You can do this by right-clicking yours or someone else's name on the sidebar:
 
-![How to take leader](/assets/img/blog/rabbit_cytube_1.png)
+![How to take leader](/assets/img/blog/rabbit2019/rabbit_cytube_1.png)
 
 The leader is marked by a star next to their name. You can also remove leader by using the same right-click menu.
 
@@ -42,7 +42,7 @@ There's a number of settings you can change under "Channel settings" in the navb
 
 ### Syncplay
 
-![Image of what Syncplay looks like.](/assets/img/blog/rabbit_syncplay_0.png)
+![Image of what Syncplay looks like.](/assets/img/blog/rabbit2019/rabbit_syncplay_0.png)
 
 [Syncplay] is an over-the-net syncronized video player software. It works much like Cytube, having support for youtube, vimeo, soundcloud, but also supporting things like adult swim and twitter videos (and anything on [this list][youtube-dl-list]) thanks to using [youtube-dl]. It can also play a number of formats not available on web players like `.mkv`.
 
@@ -58,7 +58,7 @@ While Syncplay works with VLC, it is recommended to use it with [mpv], a differe
 
 Go to the [Syncplay page][syncplay], download and install it:
 
-![Choose the version most relevant to your system.](/assets/img/blog/rabbit_syncplay_1.png)
+![Choose the version most relevant to your system.](/assets/img/blog/rabbit2019/rabbit_syncplay_1.png)
 
 Take note of the folder you're installing Syncplay on. After your install is done, open that folder on your file manager. Next, create a new folder there, and name it "mpv".
 
@@ -68,7 +68,7 @@ Download the [latest youtube-dl binary][youtube-dl-dl]. If you're on Windows, th
 
 Now, launch Syncplay. Use Syncplay.exe in the folder you're looking at or any of the shortcuts you may or may not have made while installing it. You'll see this:
 
-![Syncplay configuration screen](/assets/img/blog/rabbit_syncplay_2.png)
+![Syncplay configuration screen](/assets/img/blog/rabbit2019/rabbit_syncplay_2.png)
 
 Click on "Browse" next to "Path to media player" and select mpv.exe. You're now done with the installation.
 
@@ -76,20 +76,20 @@ Feel free to type in a username and "default room". Neither of these things are 
 
 Syncplay hosts public servers for public use, they're shown under the dropdown on "Server address":
 
-![Syncplay public servers (the highlighted one is the least-used one, so pick that one!))](/assets/img/blog/rabbit_syncplay_3.png)
-![Syncplay public servers on the configuration screen](/assets/img/blog/rabbit_syncplay_4.png)
+![Syncplay public servers (the highlighted one is the least-used one, so pick that one!))](/assets/img/blog/rabbit2019/rabbit_syncplay_3.png)
+![Syncplay public servers on the configuration screen](/assets/img/blog/rabbit2019/rabbit_syncplay_4.png)
 
 You may also host your own server, but that falls outside the scope of this guide, just like the other settings that show up when you tick the "Show more settings" box. Feel free to message me for help.
 
 After picking a server, click on "Store configuration and run Syncplay". You should then see this:
 
-![Syncplay windows](/assets/img/blog/rabbit_syncplay_5.png)
+![Syncplay windows](/assets/img/blog/rabbit2019/rabbit_syncplay_5.png)
 
 The bottom-left window is the media player mpv, and the top-right window is Syncplay proper. If you close either of these, the other one also closes, so be careful.
 
 A simple guide to the Syncplay window:
 
-![Syncplay windows](/assets/img/blog/rabbit_syncplay_6.png)
+![Syncplay windows](/assets/img/blog/rabbit2019/rabbit_syncplay_6.png)
 
 To add a video, right-click on the Playlist, and add a URL or a file. Then, ready up by either ticking the "I'm ready to watch" box or by pressing the unpause key with mpv focused (spacebar or P). By default, videos will start playing three seconds after everyone is readied up.
 
@@ -97,7 +97,7 @@ If you want to play offline files, you have to set a media directory. Click on F
 
 A note on mpv's interface:
 
-![mpv's interface](/assets/img/blog/rabbit_syncplay_7.png)
+![mpv's interface](/assets/img/blog/rabbit2019/rabbit_syncplay_7.png)
 
 Some keybinds you should know about, also:
 

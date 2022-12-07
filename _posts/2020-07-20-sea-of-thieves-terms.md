@@ -6,15 +6,15 @@ This is a reference guide for different terms relating to a Galleon in Sea of Th
 
 ## Diagrams
 
-![Sea of Thieves diagram 0](/assets/img/blog/sea_of_thieves_0.png)
+![Sea of Thieves diagram 0](/assets/img/blog/sea_of_thieves_calls/sea_of_thieves_0.png)
 
-![Sea of Thieves diagram 1](/assets/img/blog/sea_of_thieves_1.png)
+![Sea of Thieves diagram 1](/assets/img/blog/sea_of_thieves_calls/sea_of_thieves_1.png)
 
-![Sea of Thieves diagram 2](/assets/img/blog/sea_of_thieves_2.png)
+![Sea of Thieves diagram 2](/assets/img/blog/sea_of_thieves_calls/sea_of_thieves_2.png)
 
-![Sea of Thieves diagram 3](/assets/img/blog/sea_of_thieves_3.png)
+![Sea of Thieves diagram 3](/assets/img/blog/sea_of_thieves_calls/sea_of_thieves_3.png)
 
-![Sea of Thieves diagram 4](/assets/img/blog/sea_of_thieves_4.png)
+![Sea of Thieves diagram 4](/assets/img/blog/sea_of_thieves_calls/sea_of_thieves_4.png)
 
 ## On directions
 
