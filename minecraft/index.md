@@ -7,7 +7,7 @@ layout: side
 
 <div style="text-align: center"><a class="fat" href="map">Server Map</a></div>
 
-We are playing **1.19.2 vanilla\*** survival multiplayer Minecraft.
+We are playing **1.19.3 vanilla\*** survival multiplayer Minecraft.
 
 We will update to newer versions as the important mods the server uses get updated. This might mean a few months of lag behind Minecraft updates.
 
@@ -57,7 +57,8 @@ This mod strips the cryptographic signatures attached to messages before relayin
 
 To join the server, please ask to be whitelisted first.
 
-I recommend using my pre-made modpack, but you can join on a vanilla client.
+You can join on a vanilla client, but I also provide a modpack below.  
+The server has voice chat with the Simple Voice Chat mod.
 
 <details markdown="1"><summary>Client Modpack</summary>
 
